@@ -50,6 +50,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Syncvault",
+        "ticker": "SVTS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-02-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Stakecube",
         "ticker": "SCC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
