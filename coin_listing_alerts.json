@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Roam",
+        "ticker": "ROAM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ChainCoin",
         "ticker": "CHC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
