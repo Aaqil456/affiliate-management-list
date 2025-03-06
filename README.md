@@ -1,5 +1,3 @@
-Thanks for sharing the project structure! Here's your **updated `README.md`** specifically tailored to your **`affiliate-management-list`** project on GitHub, reflecting the files you have (`fetch_alerts.py`, `coin_listing_alerts.json`, `index.html`, workflows, etc.).
-
 ---
 
 # 🚀 Affiliate Management - Coin Listing Alert System
