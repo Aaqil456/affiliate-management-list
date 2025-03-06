@@ -8,6 +8,27 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "MEMDEX100",
+        "ticker": "MEMDEX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Smart Shopping Experience",
+        "ticker": "SSE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "AIntivirus",
+        "ticker": "AINTI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ChainCoin",
         "ticker": "CHC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
