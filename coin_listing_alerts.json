@@ -35,6 +35,27 @@
         "date_added": "2025-03-06"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Roam",
+        "ticker": "ROAM",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Roam",
+        "ticker": "ROAM",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-06"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Roam",
+        "ticker": "ROAM",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-06"
+    },
+    {
         "exchange": "MEXC",
         "coin": "ChainCoin",
         "ticker": "CHC",
