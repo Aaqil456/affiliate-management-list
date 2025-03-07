@@ -14,6 +14,27 @@
         "date_added": "2025-03-07"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "elixir.finance",
+        "ticker": "ELX",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-07"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "elixir.finance",
+        "ticker": "ELX",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-07"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "elixir.finance",
+        "ticker": "ELX",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-07"
+    },
+    {
         "exchange": "MEXC",
         "coin": "siren",
         "ticker": "SIREN",
