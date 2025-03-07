@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "splashed.io",
+        "ticker": "SPLASH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "siren",
         "ticker": "SIREN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
