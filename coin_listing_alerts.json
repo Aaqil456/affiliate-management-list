@@ -19,5 +19,19 @@
         "ticker": "LVVA",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-03-11"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "BMChain",
+        "ticker": "BMT",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-11"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "BMChain",
+        "ticker": "BMT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-11"
     }
 ]
