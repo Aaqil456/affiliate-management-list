@@ -1,6 +1,13 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "Levva Protocol",
+        "ticker": "LVVA",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-12"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Avery Games",
         "ticker": "AVERY",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
