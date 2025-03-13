@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "CaptainBNB",
+        "ticker": "CAPTAINBNB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-13"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Levva Protocol",
         "ticker": "LVVA",
