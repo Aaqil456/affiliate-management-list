@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Epic Cash",
+        "ticker": "EPIC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CaptainBNB",
         "ticker": "CAPTAINBNB",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
