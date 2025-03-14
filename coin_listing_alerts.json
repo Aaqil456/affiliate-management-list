@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Aurum0x  Protocol",
+        "ticker": "AO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CaptainBNB",
         "ticker": "CAPTAINBNB",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -61,40 +68,5 @@
         "ticker": "GX",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Avery Games",
-        "ticker": "AVERY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SOEX",
-        "ticker": "SOEX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-11"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Levva Protocol",
-        "ticker": "LVVA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-11"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "BMChain",
-        "ticker": "BMT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-11"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BMChain",
-        "ticker": "BMT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-11"
     }
 ]
