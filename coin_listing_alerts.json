@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "mubarak",
+        "ticker": "MUBARAK",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-16"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Aurum0x  Protocol",
         "ticker": "AO",
@@ -12,68 +19,5 @@
         "ticker": "EPIC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-03-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CaptainBNB",
-        "ticker": "CAPTAINBNB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-13"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Epic Cash",
-        "ticker": "EPIC",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Mallcoin Token",
-        "ticker": "MLC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Apex Fusion",
-        "ticker": "AP3X",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Epic Cash",
-        "ticker": "EPIC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Levva Protocol",
-        "ticker": "LVVA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Terracoin",
-        "ticker": "TRC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Levva Protocol",
-        "ticker": "LVVA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GameX",
-        "ticker": "GX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-12"
     }
 ]
