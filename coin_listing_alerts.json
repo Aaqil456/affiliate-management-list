@@ -21,6 +21,13 @@
         "date_added": "2025-03-17"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Brazilian Real",
+        "ticker": "BRL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-17"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "mubarak",
         "ticker": "MUBARAK",
