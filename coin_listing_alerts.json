@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Tutellus",
+        "ticker": "TUT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Epic Cash",
         "ticker": "EPIC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
