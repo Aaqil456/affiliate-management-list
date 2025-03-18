@@ -28,6 +28,20 @@
         "date_added": "2025-03-18"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "BMChain",
+        "ticker": "BMT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-18"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "BMChain",
+        "ticker": "BMT",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-18"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Epic Cash",
         "ticker": "EPIC",
