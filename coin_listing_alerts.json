@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Raven X",
+        "ticker": "RX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Tutellus",
         "ticker": "TUT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
