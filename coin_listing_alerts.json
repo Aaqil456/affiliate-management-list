@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Sphere",
+        "ticker": "SPHR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Tutellus",
         "ticker": "TUT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,12 +82,5 @@
         "ticker": "BRL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-03-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "mubarak",
-        "ticker": "MUBARAK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-16"
     }
 ]
