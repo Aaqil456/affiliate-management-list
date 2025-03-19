@@ -7,6 +7,20 @@
         "date_added": "2025-03-19"
     },
     {
+        "exchange": "Binance",
+        "coin": "CoinoUSD",
+        "ticker": "XUSD",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-19"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Formation Finance",
+        "ticker": "FORM",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-19"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Tutellus",
         "ticker": "TUT",
