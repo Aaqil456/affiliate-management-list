@@ -8,6 +8,41 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "FAFO",
+        "ticker": "FAFO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Full Send",
+        "ticker": "FULLSEND",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "BNBXBT",
+        "ticker": "BNBXBT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Based Froc",
+        "ticker": "FROC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Wall Street Pepe",
+        "ticker": "WEPE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Sphere",
         "ticker": "SPHR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
