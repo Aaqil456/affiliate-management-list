@@ -42,6 +42,20 @@
         "date_added": "2025-03-20"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "5X Long CAKE Token",
+        "ticker": "CAKE5L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "5X Short CAKE Token",
+        "ticker": "CAKE5S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-20"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Sphere",
         "ticker": "SPHR",
