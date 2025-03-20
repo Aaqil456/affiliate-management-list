@@ -70,6 +70,27 @@
         "date_added": "2025-03-20"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Bob Ross",
+        "ticker": "BR",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Bob Ross",
+        "ticker": "BR",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Bob Ross",
+        "ticker": "BR",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-20"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Sphere",
         "ticker": "SPHR",
