@@ -92,6 +92,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Spice",
+        "ticker": "SPICE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Sphere",
         "ticker": "SPHR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
