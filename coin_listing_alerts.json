@@ -57,6 +57,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "GiniAI",
+        "ticker": "GINI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Bob Ross",
+        "ticker": "BR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Sphere",
         "ticker": "SPHR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
