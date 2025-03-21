@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "PAX Gold",
+        "ticker": "PAXG",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-21"
+    },
+    {
         "exchange": "MEXC",
         "coin": "ATN",
         "ticker": "ATN",
@@ -145,54 +152,5 @@
         "ticker": "AO",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Tutellus",
-        "ticker": "TUT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dollarcoin",
-        "ticker": "DLC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sling",
-        "ticker": "SLING",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Tutellus",
-        "ticker": "TUT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BMChain",
-        "ticker": "BMT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "BMChain",
-        "ticker": "BMT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Tutellus",
-        "ticker": "TUT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-18"
     }
 ]
