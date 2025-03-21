@@ -7,6 +7,20 @@
         "date_added": "2025-03-21"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Venice Token",
+        "ticker": "VVV",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-21"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Basenji",
+        "ticker": "BENJI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-21"
+    },
+    {
         "exchange": "MEXC",
         "coin": "ATN",
         "ticker": "ATN",
