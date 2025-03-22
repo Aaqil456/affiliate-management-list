@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Fatcoin",
+        "ticker": "FAT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-22"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "PAX Gold",
         "ticker": "PAXG",
@@ -145,47 +152,5 @@
         "ticker": "SPICE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sphere",
-        "ticker": "SPHR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "CoinoUSD",
-        "ticker": "XUSD",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Formation Finance",
-        "ticker": "FORM",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "siren",
-        "ticker": "SIREN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Raven X",
-        "ticker": "RX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Aurum0x  Protocol",
-        "ticker": "AO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-19"
     }
 ]
