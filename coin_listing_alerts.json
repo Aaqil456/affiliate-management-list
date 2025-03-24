@@ -1,156 +1,16 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "USDQ",
+        "ticker": "USDQ",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-24"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Fatcoin",
         "ticker": "FAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-03-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PAX Gold",
-        "ticker": "PAXG",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Venice Token",
-        "ticker": "VVV",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Basenji",
-        "ticker": "BENJI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ALTAVA",
-        "ticker": "TAVA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Formation Finance",
-        "ticker": "FORM",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "siren",
-        "ticker": "SIREN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ATN",
-        "ticker": "ATN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "FAFO",
-        "ticker": "FAFO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Full Send",
-        "ticker": "FULLSEND",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BNBXBT",
-        "ticker": "BNBXBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Based Froc",
-        "ticker": "FROC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Wall Street Pepe",
-        "ticker": "WEPE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long CAKE Token",
-        "ticker": "CAKE5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short CAKE Token",
-        "ticker": "CAKE5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GiniAI",
-        "ticker": "GINI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bob Ross",
-        "ticker": "BR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Bob Ross",
-        "ticker": "BR",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Bob Ross",
-        "ticker": "BR",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bob Ross",
-        "ticker": "BR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Spice",
-        "ticker": "SPICE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Spice",
-        "ticker": "SPICE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-20"
     }
 ]
