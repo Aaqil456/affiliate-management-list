@@ -21,6 +21,20 @@
         "date_added": "2025-03-24"
     },
     {
+        "exchange": "Bitget",
+        "coin": "NotImportantLottery",
+        "ticker": "NIL",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-24"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "NotImportantLottery",
+        "ticker": "NIL",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-24"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Fatcoin",
         "ticker": "FAT",
