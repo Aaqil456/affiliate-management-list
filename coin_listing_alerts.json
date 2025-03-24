@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Arabian Dragon",
+        "ticker": "AGON",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Fatcoin",
         "ticker": "FAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
