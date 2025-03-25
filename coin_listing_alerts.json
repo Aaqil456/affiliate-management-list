@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "BoxBet",
+        "ticker": "BXBT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-25"
+    },
+    {
         "exchange": "Bybit",
         "coin": "USDQ",
         "ticker": "USDQ",
@@ -40,12 +47,5 @@
         "ticker": "NIL",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Fatcoin",
-        "ticker": "FAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-22"
     }
 ]
