@@ -49,6 +49,13 @@
         "date_added": "2025-03-25"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Miu",
+        "ticker": "MIU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-25"
+    },
+    {
         "exchange": "Bybit",
         "coin": "USDQ",
         "ticker": "USDQ",
