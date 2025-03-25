@@ -7,6 +7,20 @@
         "date_added": "2025-03-25"
     },
     {
+        "exchange": "MEXC",
+        "coin": "PARTI Token",
+        "ticker": "PARTI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-25"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Bubb",
+        "ticker": "BUBB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-25"
+    },
+    {
         "exchange": "Bybit",
         "coin": "USDQ",
         "ticker": "USDQ",
