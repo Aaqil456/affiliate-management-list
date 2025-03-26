@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Terminu",
+        "ticker": "TERM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BoxBet",
         "ticker": "BXBT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
