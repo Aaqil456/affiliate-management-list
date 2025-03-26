@@ -14,6 +14,27 @@
         "date_added": "2025-03-26"
     },
     {
+        "exchange": "Bybit",
+        "coin": "AmicorumLive",
+        "ticker": "AMI",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-26"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Nacho Inu",
+        "ticker": "NACHO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-26"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "MESSIER",
+        "ticker": "M87",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-26"
+    },
+    {
         "exchange": "MEXC",
         "coin": "BoxBet",
         "ticker": "BXBT",
