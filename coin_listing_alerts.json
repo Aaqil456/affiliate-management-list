@@ -14,6 +14,48 @@
         "date_added": "2025-03-27"
     },
     {
+        "exchange": "Bitget",
+        "coin": "The Wasted Lands",
+        "ticker": "WAL",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Moneytoken",
+        "ticker": "IMT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "The Wasted Lands",
+        "ticker": "WAL",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "The Wasted Lands",
+        "ticker": "WAL",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Moneytoken",
+        "ticker": "IMT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Banana For Scale",
+        "ticker": "BANANAS31",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-27"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Terminu",
         "ticker": "TERM",
