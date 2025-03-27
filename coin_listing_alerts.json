@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Moneytoken",
+        "ticker": "IMT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "The Wasted Lands",
+        "ticker": "WAL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Terminu",
         "ticker": "TERM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -103,47 +117,5 @@
         "ticker": "MIU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "USDQ",
-        "ticker": "USDQ",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Arabian Dragon",
-        "ticker": "AGON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "NotImportantLottery",
-        "ticker": "NIL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "NotImportantLottery",
-        "ticker": "NIL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "NotImportantLottery",
-        "ticker": "NIL",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "NotImportantLottery",
-        "ticker": "NIL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-24"
     }
 ]
