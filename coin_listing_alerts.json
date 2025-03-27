@@ -84,6 +84,34 @@
         "date_added": "2025-03-27"
     },
     {
+        "exchange": "Binance",
+        "coin": "Banana For Scale",
+        "ticker": "BANANAS31",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "CZ'S DOG",
+        "ticker": "Broccoli",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Tutellus",
+        "ticker": "TUT",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-27"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "mubarak",
+        "ticker": "MUBARAK",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-27"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Terminu",
         "ticker": "TERM",
