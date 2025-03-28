@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Ghiblification",
+        "ticker": "GHIBLI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-28"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Moneytoken",
         "ticker": "IMT",
@@ -159,61 +166,5 @@
         "ticker": "BID",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BoxBet",
-        "ticker": "BXBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PARTI Token",
-        "ticker": "PARTI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bubb",
-        "ticker": "BUBB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "PARTI Token",
-        "ticker": "PARTI",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "PARTI Token",
-        "ticker": "PARTI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PARTI Token",
-        "ticker": "PARTI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "PARTI Token",
-        "ticker": "PARTI",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Miu",
-        "ticker": "MIU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-25"
     }
 ]
