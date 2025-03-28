@@ -64,6 +64,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "IMGN Labs",
+        "ticker": "IMGN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Moneytoken",
         "ticker": "IMT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
