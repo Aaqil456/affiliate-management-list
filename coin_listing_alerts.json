@@ -8,6 +8,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "Arma The Battle Ground",
+        "ticker": "AB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-29"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Ghiblification",
         "ticker": "GHIBLI",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
