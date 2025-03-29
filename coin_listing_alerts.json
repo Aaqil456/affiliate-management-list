@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Jupiter Perpetuals Liquidity Provider Token",
+        "ticker": "JLP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Ghiblification",
         "ticker": "GHIBLI",
@@ -180,54 +187,5 @@
         "ticker": "MUBARAK",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Terminu",
-        "ticker": "TERM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AmicorumLive",
-        "ticker": "AMI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "AmicorumLive",
-        "ticker": "AMI",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Nacho Inu",
-        "ticker": "NACHO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MESSIER",
-        "ticker": "M87",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PHOTOCENTRA.COM",
-        "ticker": "PHOTO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-26"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bidao",
-        "ticker": "BID",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-26"
     }
 ]
