@@ -77,6 +77,34 @@
         "date_added": "2025-03-31"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Gunzilla Games",
+        "ticker": "GUN",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Legacy Token",
+        "ticker": "LGCT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Gunzilla Games",
+        "ticker": "GUN",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Gunzilla Games",
+        "ticker": "GUN",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-03-31"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Jupiter Perpetuals Liquidity Provider Token",
         "ticker": "JLP",
