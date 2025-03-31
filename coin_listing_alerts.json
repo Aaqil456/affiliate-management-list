@@ -1,6 +1,34 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "IMGN Labs",
+        "ticker": "IMGN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Popcorn Token",
+        "ticker": "CORN",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Freysa AI",
+        "ticker": "FAI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "5X Short SUI Token",
+        "ticker": "SUI5S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Jupiter Perpetuals Liquidity Provider Token",
         "ticker": "JLP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,187 +40,5 @@
         "ticker": "AB",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-03-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Ghiblification",
-        "ticker": "GHIBLI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Hive-Backed",
-        "ticker": "HBD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BTCtalkcoin",
-        "ticker": "TALK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short SUI Token",
-        "ticker": "SUI5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short BNB Token",
-        "ticker": "BNB5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long BNB Token",
-        "ticker": "BNB5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long SUI Token",
-        "ticker": "SUI5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Popcorn Token",
-        "ticker": "CORN",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Freysa AI",
-        "ticker": "FAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "IMGN Labs",
-        "ticker": "IMGN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Moneytoken",
-        "ticker": "IMT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "The Wasted Lands",
-        "ticker": "WAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "The Wasted Lands",
-        "ticker": "WAL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Moneytoken",
-        "ticker": "IMT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "The Wasted Lands",
-        "ticker": "WAL",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "The Wasted Lands",
-        "ticker": "WAL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Moneytoken",
-        "ticker": "IMT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Banana For Scale",
-        "ticker": "BANANAS31",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Oracle Red Bull Racing Velocity Pass 2.0",
-        "ticker": "SPEED",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Collaterize",
-        "ticker": "COLLAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "VeBetterDAO",
-        "ticker": "B3TR",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Fluidity",
-        "ticker": "FLUID",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Banana For Scale",
-        "ticker": "BANANAS31",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "CZ'S DOG",
-        "ticker": "Broccoli",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Tutellus",
-        "ticker": "TUT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "mubarak",
-        "ticker": "MUBARAK",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-27"
     }
 ]
