@@ -50,6 +50,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "WIZZ",
+        "ticker": "WIZZ",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-03-31"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Jupiter Perpetuals Liquidity Provider Token",
         "ticker": "JLP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
