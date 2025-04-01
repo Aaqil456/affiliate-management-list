@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "BAI2.0",
+        "ticker": "BAI",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "IMGN Labs",
         "ticker": "IMGN",
@@ -110,19 +117,5 @@
         "ticker": "DROP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Jupiter Perpetuals Liquidity Provider Token",
-        "ticker": "JLP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Arma The Battle Ground",
-        "ticker": "AB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-29"
     }
 ]
