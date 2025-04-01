@@ -7,6 +7,13 @@
         "date_added": "2025-04-01"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Pump coin",
+        "ticker": "PUMP",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-04-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "IMGN Labs",
         "ticker": "IMGN",
