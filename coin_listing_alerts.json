@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Domin Network",
+        "ticker": "DOMIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-02"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BAI2.0",
         "ticker": "BAI",
