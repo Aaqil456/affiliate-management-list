@@ -28,6 +28,20 @@
         "date_added": "2025-04-03"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Save The Ocean",
+        "ticker": "STO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-03"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Save The Ocean",
+        "ticker": "STO",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-03"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Domin Network",
         "ticker": "DOMIN",
