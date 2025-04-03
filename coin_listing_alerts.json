@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Save The Ocean",
+        "ticker": "STO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Domin Network",
         "ticker": "DOMIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
