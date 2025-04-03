@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "SACoin",
+        "ticker": "SAC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Domin Network",
         "ticker": "DOMIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -26,117 +33,5 @@
         "ticker": "PUMP",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-04-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "IMGN Labs",
-        "ticker": "IMGN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Popcorn Token",
-        "ticker": "CORN",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Freysa AI",
-        "ticker": "FAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short SUI Token",
-        "ticker": "SUI5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Zen Protocol",
-        "ticker": "ZP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "WAVE",
-        "ticker": "WAV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Vara Network",
-        "ticker": "VARA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "WIZZ",
-        "ticker": "WIZZ",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "WIZZ",
-        "ticker": "WIZZ",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Numitor",
-        "ticker": "NUMI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Gunzilla Games",
-        "ticker": "GUN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Gunzilla Games",
-        "ticker": "GUN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Legacy Token",
-        "ticker": "LGCT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Gunzilla Games",
-        "ticker": "GUN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Gunzilla Games",
-        "ticker": "GUN",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-03-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "FaucetCoin",
-        "ticker": "DROP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-03-31"
     }
 ]
