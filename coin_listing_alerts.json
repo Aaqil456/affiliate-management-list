@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "SuperTrust",
+        "ticker": "SUT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-04"
+    },
+    {
         "exchange": "MEXC",
         "coin": "SACoin",
         "ticker": "SAC",
@@ -54,19 +61,5 @@
         "ticker": "EDGE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-04-02"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BAI2.0",
-        "ticker": "BAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-01"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Pump coin",
-        "ticker": "PUMP",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-01"
     }
 ]
