@@ -19,5 +19,12 @@
         "ticker": "ALE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-04-07"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Aiden",
+        "ticker": "ADN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-07"
     }
 ]
