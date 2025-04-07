@@ -4,62 +4,6 @@
         "coin": "SuperTrust",
         "ticker": "SUT",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SACoin",
-        "ticker": "SAC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Ratio Stable Coin",
-        "ticker": "USDR",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Save The Ocean",
-        "ticker": "STO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Auctus",
-        "ticker": "AUC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Save The Ocean",
-        "ticker": "STO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Save The Ocean",
-        "ticker": "STO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Domin Network",
-        "ticker": "DOMIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "EdgeCoin",
-        "ticker": "EDGE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-02"
+        "date_added": "2025-04-07"
     }
 ]
