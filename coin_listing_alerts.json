@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "REFLECT.CASH",
+        "ticker": "RFC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "AppleSwap AI",
         "ticker": "AP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
