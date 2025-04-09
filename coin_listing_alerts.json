@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "REFLECT.CASH",
+        "ticker": "RFC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-09"
+    },
+    {
         "exchange": "MEXC",
         "coin": "AppleSwap AI",
         "ticker": "AP",
