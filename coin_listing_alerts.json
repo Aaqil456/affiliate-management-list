@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Physalis.Finance",
+        "ticker": "PHY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-11"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BabySwap",
         "ticker": "BABY",
@@ -47,26 +54,5 @@
         "ticker": "RFC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-04-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AppleSwap AI",
-        "ticker": "AP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-08"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "REFLECT.CASH",
-        "ticker": "RFC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CAKEPAD",
-        "ticker": "CKP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-08"
     }
 ]
