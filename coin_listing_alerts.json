@@ -21,6 +21,27 @@
         "date_added": "2025-04-11"
     },
     {
+        "exchange": "Binance",
+        "coin": "Virtual Protocol",
+        "ticker": "VIRTUAL",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-04-11"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Big Time",
+        "ticker": "BIGTIME",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-04-11"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Ondo Finance",
+        "ticker": "ONDO",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-04-11"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BabySwap",
         "ticker": "BABY",
