@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "SCARCITY",
+        "ticker": "SCARCITY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Physalis.Finance",
         "ticker": "PHY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,19 +82,5 @@
         "ticker": "PROMPT",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-04-10"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "REFLECT.CASH",
-        "ticker": "RFC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "REFLECT.CASH",
-        "ticker": "RFC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-09"
     }
 ]
