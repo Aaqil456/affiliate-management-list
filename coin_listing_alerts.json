@@ -14,6 +14,34 @@
         "date_added": "2025-04-14"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "KernelDao",
+        "ticker": "KERNEL",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-14"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "KernelDao",
+        "ticker": "KERNEL",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-14"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "KernelDao",
+        "ticker": "KERNEL",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-04-14"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "GOHOME",
+        "ticker": "GOHOME",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-14"
+    },
+    {
         "exchange": "MEXC",
         "coin": "SCARCITY",
         "ticker": "SCARCITY",
