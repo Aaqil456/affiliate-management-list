@@ -1,86 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Shong Inu",
+        "ticker": "SHONG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SCARCITY",
         "ticker": "SCARCITY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-04-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Physalis.Finance",
-        "ticker": "PHY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Tether Gold",
-        "ticker": "XAUT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cointed",
-        "ticker": "CTD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Virtual Protocol",
-        "ticker": "VIRTUAL",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Big Time",
-        "ticker": "BIGTIME",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Ondo Finance",
-        "ticker": "ONDO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-11"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BabySwap",
-        "ticker": "BABY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-10"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "BabySwap",
-        "ticker": "BABY",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Prompt",
-        "ticker": "PROMPT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-10"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Prompt",
-        "ticker": "PROMPT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-10"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Prompt",
-        "ticker": "PROMPT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-10"
     }
 ]
