@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "KernelDao",
+        "ticker": "KERNEL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SCARCITY",
         "ticker": "SCARCITY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
