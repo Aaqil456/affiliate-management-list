@@ -50,6 +50,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Renta Network",
+        "ticker": "RENTA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Shong Inu",
         "ticker": "SHONG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
