@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Waves Community Token",
+        "ticker": "WCT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Shong Inu",
         "ticker": "SHONG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,12 +47,5 @@
         "ticker": "GOHOME",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-04-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SCARCITY",
-        "ticker": "SCARCITY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-12"
     }
 ]
