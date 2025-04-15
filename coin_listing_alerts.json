@@ -35,6 +35,20 @@
         "date_added": "2025-04-15"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Freedogs",
+        "ticker": "FREEDOG",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-15"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Mey Network",
+        "ticker": "MEY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-15"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Shong Inu",
         "ticker": "SHONG",
