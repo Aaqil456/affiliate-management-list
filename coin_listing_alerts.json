@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "playmarket",
+        "ticker": "PMT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Waves Community Token",
         "ticker": "WCT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
