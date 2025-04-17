@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "$HYPERSKIDS",
+        "ticker": "HYPERSKIDS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "playmarket",
         "ticker": "PMT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
