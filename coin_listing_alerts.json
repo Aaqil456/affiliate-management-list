@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Bankless DAO",
+        "ticker": "BANK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "STO Operating System",
         "ticker": "STOOS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -61,61 +68,5 @@
         "ticker": "PAWS",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-04-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Waves Community Token",
-        "ticker": "WCT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Waves Community Token",
-        "ticker": "WCT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Waves Community Token",
-        "ticker": "WCT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Waves Community Token",
-        "ticker": "WCT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Waves Community Token",
-        "ticker": "WCT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Freedogs",
-        "ticker": "FREEDOG",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mey Network",
-        "ticker": "MEY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Renta Network",
-        "ticker": "RENTA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-15"
     }
 ]
