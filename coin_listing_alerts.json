@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Float Protocol: Float",
+        "ticker": "FLOAT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-20"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Bankless DAO",
         "ticker": "BANK",
@@ -19,68 +26,5 @@
         "ticker": "BANK",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-04-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "STO Operating System",
-        "ticker": "STOOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "$HYPERSKIDS",
-        "ticker": "HYPERSKIDS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pesetacoin",
-        "ticker": "PTC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "VeThor Token",
-        "ticker": "VTHO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short OM Token",
-        "ticker": "OM3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long OM Token",
-        "ticker": "OM3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "playmarket",
-        "ticker": "PMT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-16"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Animal Adoption Advocacy",
-        "ticker": "PAWS",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-16"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Animal Adoption Advocacy",
-        "ticker": "PAWS",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-16"
     }
 ]
