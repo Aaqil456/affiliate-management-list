@@ -1,30 +1,23 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "3X Short MAGIC Token",
+        "ticker": "MAGIC3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-21"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long MAGIC Token",
+        "ticker": "MAGIC3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-21"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Float Protocol: Float",
         "ticker": "FLOAT",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-04-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bankless DAO",
-        "ticker": "BANK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-18"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Dark Frontiers",
-        "ticker": "DARK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-18"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Bankless DAO",
-        "ticker": "BANK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-18"
     }
 ]
