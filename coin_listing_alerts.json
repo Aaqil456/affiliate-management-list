@@ -7,6 +7,13 @@
         "date_added": "2025-04-22"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Hyper",
+        "ticker": "HYPER",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-22"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "3X Short MAGIC Token",
         "ticker": "MAGIC3S",
