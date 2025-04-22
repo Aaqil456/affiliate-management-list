@@ -43,6 +43,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "SKYAI",
+        "ticker": "SKYAI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-22"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "3X Short MAGIC Token",
         "ticker": "MAGIC3S",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
