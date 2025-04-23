@@ -7,6 +7,13 @@
         "date_added": "2025-04-23"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Zoracles",
+        "ticker": "ZORA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-23"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Pundi AI",
         "ticker": "PUNDIAI",
