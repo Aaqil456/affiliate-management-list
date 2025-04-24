@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Build On BNB",
+        "ticker": "BOBBSC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TROLL",
         "ticker": "TROLLSOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
