@@ -64,6 +64,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Dolomite",
+        "ticker": "DOLO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TROLL",
         "ticker": "TROLLSOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
