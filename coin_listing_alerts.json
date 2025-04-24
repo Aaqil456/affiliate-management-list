@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "3X Short TURBO Token",
+        "ticker": "TURBO3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-24"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long TURBO Token",
+        "ticker": "TURBO3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-24"
+    },
+    {
         "exchange": "MEXC",
         "coin": "TROLL",
         "ticker": "TROLLSOL",
@@ -82,54 +96,5 @@
         "ticker": "SKYAI",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-04-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short MAGIC Token",
-        "ticker": "MAGIC3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long MAGIC Token",
-        "ticker": "MAGIC3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Evident Proof Token",
-        "ticker": "EPT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Luce",
-        "ticker": "LUCE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Evident Proof Token",
-        "ticker": "EPT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Evident Proof Token",
-        "ticker": "EPT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Evident Proof Token",
-        "ticker": "EPT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-21"
     }
 ]
