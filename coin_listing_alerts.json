@@ -8,6 +8,20 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "5X Short ADA Token",
+        "ticker": "ADA5S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-25"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "5X Long ADA Token",
+        "ticker": "ADA5L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-25"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "3X Short TURBO Token",
         "ticker": "TURBO3S",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
