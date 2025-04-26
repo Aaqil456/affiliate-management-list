@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Toast.finance",
+        "ticker": "HOUSE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-26"
+    },
+    {
         "exchange": "Bitget",
         "coin": "DeepBook",
         "ticker": "DEEP",
@@ -124,40 +131,5 @@
         "ticker": "DOLO",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TROLL",
-        "ticker": "TROLLSOL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zoracles",
-        "ticker": "ZORA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-23"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Zoracles",
-        "ticker": "ZORA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-23"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Zoracles",
-        "ticker": "ZORA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-23"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Zoracles",
-        "ticker": "ZORA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-23"
     }
 ]
