@@ -7,6 +7,13 @@
         "date_added": "2025-04-26"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Verse",
+        "ticker": "VERSE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-26"
+    },
+    {
         "exchange": "Bitget",
         "coin": "DeepBook",
         "ticker": "DEEP",
