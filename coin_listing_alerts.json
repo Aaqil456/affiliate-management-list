@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "SuperLauncher",
+        "ticker": "LAUNCH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Toast.finance",
         "ticker": "HOUSE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,131 +19,5 @@
         "ticker": "VERSE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-04-26"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "DeepBook",
-        "ticker": "DEEP",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short ADA Token",
-        "ticker": "ADA5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long ADA Token",
-        "ticker": "ADA5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pundi AI",
-        "ticker": "PUNDIAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short TURBO Token",
-        "ticker": "TURBO3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long TURBO Token",
-        "ticker": "TURBO3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Build On BNB",
-        "ticker": "BOBBSC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OrdiZK",
-        "ticker": "OZK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Initia",
-        "ticker": "INIT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Initia",
-        "ticker": "INIT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Initia",
-        "ticker": "INIT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Initia",
-        "ticker": "INIT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Initia",
-        "ticker": "INIT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dolomite",
-        "ticker": "DOLO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SalPay",
-        "ticker": "SAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Dolomite",
-        "ticker": "DOLO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Dolomite",
-        "ticker": "DOLO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Dolomite",
-        "ticker": "DOLO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-24"
     }
 ]
