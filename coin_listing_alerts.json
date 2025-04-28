@@ -14,6 +14,34 @@
         "date_added": "2025-04-28"
     },
     {
+        "exchange": "Bitget",
+        "coin": "SignatureChain",
+        "ticker": "SIGN",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-28"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "SignatureChain",
+        "ticker": "SIGN",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-04-28"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "SignatureChain",
+        "ticker": "SIGN",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-28"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "SignatureChain",
+        "ticker": "SIGN",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-04-28"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Toast.finance",
         "ticker": "HOUSE",
