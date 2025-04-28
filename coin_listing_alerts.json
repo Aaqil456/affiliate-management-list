@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "SignatureChain",
+        "ticker": "SIGN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Toast.finance",
         "ticker": "HOUSE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
