@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Disco Burn Token",
+        "ticker": "DBT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SuperLauncher",
         "ticker": "LAUNCH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,19 +47,5 @@
         "ticker": "SIGN",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-04-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Toast.finance",
-        "ticker": "HOUSE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Verse",
-        "ticker": "VERSE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-26"
     }
 ]
