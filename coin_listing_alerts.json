@@ -22,6 +22,34 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Lucky Dog",
+        "ticker": "LUCKY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "MilkyWayToken",
+        "ticker": "MILK",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "MilkyWayToken",
+        "ticker": "MILK",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "MilkyWayToken",
+        "ticker": "MILK",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SuperLauncher",
         "ticker": "LAUNCH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
