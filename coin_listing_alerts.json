@@ -78,6 +78,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Apertum",
+        "ticker": "APTM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-29"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SuperLauncher",
         "ticker": "LAUNCH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
