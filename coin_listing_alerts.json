@@ -42,6 +42,20 @@
         "date_added": "2025-04-30"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Toast.finance",
+        "ticker": "HOUSE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-04-30"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Jingle",
+        "ticker": "JINGLE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-30"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Disco Burn Token",
         "ticker": "DBT",
