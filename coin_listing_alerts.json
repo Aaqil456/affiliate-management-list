@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "NexusFinance",
+        "ticker": "NEXUS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-04-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Disco Burn Token",
         "ticker": "DBT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
