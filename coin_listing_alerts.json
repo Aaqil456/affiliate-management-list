@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "BOOP",
+        "ticker": "BOOP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Pundi X Token",
         "ticker": "PUNDIX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
