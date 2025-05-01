@@ -7,6 +7,13 @@
         "date_added": "2025-05-01"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Toast.finance",
+        "ticker": "HOUSE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Pundi X Token",
         "ticker": "PUNDIX",
