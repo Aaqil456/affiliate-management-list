@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "AGENDA 47",
+        "ticker": "A47",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-02"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Beethoven X",
         "ticker": "BEETS",
@@ -75,89 +82,5 @@
         "ticker": "JINGLE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Disco Burn Token",
-        "ticker": "DBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long MUBARAK Token",
-        "ticker": "MUBARAK3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short MUBARAK Token",
-        "ticker": "MUBARAK3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lucky Dog",
-        "ticker": "LUCKY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "MilkyWayToken",
-        "ticker": "MILK",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "MilkyWayToken",
-        "ticker": "MILK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "MilkyWayToken",
-        "ticker": "MILK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Haedal Protocol",
-        "ticker": "HAEDAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Haedal Protocol",
-        "ticker": "HAEDAL",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Haedal Protocol",
-        "ticker": "HAEDAL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Haedal Protocol",
-        "ticker": "HAEDAL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Apertum",
-        "ticker": "APTM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-29"
     }
 ]
