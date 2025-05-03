@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "New XAI gork",
+        "ticker": "GORK",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-03"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AGENDA 47",
         "ticker": "A47",
@@ -33,61 +40,5 @@
         "ticker": "BOOP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pundi X Token",
-        "ticker": "PUNDIX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Book Terminal of Truths",
-        "ticker": "TERMINAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Ultra",
-        "ticker": "UOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BSquared Token",
-        "ticker": "B2",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "NexusFinance",
-        "ticker": "NEXUS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BSquared Token",
-        "ticker": "B2",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Toast.finance",
-        "ticker": "HOUSE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-04-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Jingle",
-        "ticker": "JINGLE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-04-30"
     }
 ]
