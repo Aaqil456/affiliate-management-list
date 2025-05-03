@@ -7,6 +7,13 @@
         "date_added": "2025-05-03"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Popecoin",
+        "ticker": "POPE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-03"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AGENDA 47",
         "ticker": "A47",
