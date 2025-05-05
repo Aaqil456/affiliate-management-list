@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "BOOP",
+        "ticker": "BOOP",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-05"
+    },
+    {
         "exchange": "Bitget",
         "coin": "New XAI gork",
         "ticker": "GORK",
@@ -12,40 +19,5 @@
         "ticker": "POPE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AGENDA 47",
-        "ticker": "A47",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-02"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Save The Ocean",
-        "ticker": "STO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Beethoven X",
-        "ticker": "BEETS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Toast.finance",
-        "ticker": "HOUSE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BOOP",
-        "ticker": "BOOP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-01"
     }
 ]
