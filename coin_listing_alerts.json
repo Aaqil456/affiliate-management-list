@@ -35,6 +35,20 @@
         "date_added": "2025-05-06"
     },
     {
+        "exchange": "Binance",
+        "coin": "Kamino",
+        "ticker": "KMNO",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-05-06"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Maple Finance",
+        "ticker": "SYRUP",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-05-06"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "BOOP",
         "ticker": "BOOP",
