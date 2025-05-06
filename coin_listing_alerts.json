@@ -1,23 +1,23 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Archive AI",
+        "ticker": "ARCHAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-06"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "MYX Network",
+        "ticker": "MYX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-06"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "BOOP",
         "ticker": "BOOP",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-05-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "New XAI gork",
-        "ticker": "GORK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Popecoin",
-        "ticker": "POPE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-03"
     }
 ]
