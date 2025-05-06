@@ -21,6 +21,13 @@
         "date_added": "2025-05-06"
     },
     {
+        "exchange": "Bitget",
+        "coin": "MYX Network",
+        "ticker": "MYX",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-06"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "BOOP",
         "ticker": "BOOP",
