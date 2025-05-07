@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "SPACEM",
+        "ticker": "SPACEM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Archive AI",
         "ticker": "ARCHAI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
