@@ -21,6 +21,20 @@
         "date_added": "2025-05-08"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "shardeum",
+        "ticker": "SHM",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "shardeum",
+        "ticker": "SHM",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Academic Labs",
         "ticker": "AAX",
