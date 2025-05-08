@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "titcoin",
+        "ticker": "TITCOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Academic Labs",
         "ticker": "AAX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -89,12 +96,5 @@
         "ticker": "SYRUP",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BOOP",
-        "ticker": "BOOP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-05"
     }
 ]
