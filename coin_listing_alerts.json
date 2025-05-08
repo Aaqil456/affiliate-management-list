@@ -63,6 +63,13 @@
         "date_added": "2025-05-08"
     },
     {
+        "exchange": "Binance",
+        "coin": "SmartX Token",
+        "ticker": "SXT",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-05-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Academic Labs",
         "ticker": "AAX",
