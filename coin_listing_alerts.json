@@ -70,6 +70,34 @@
         "date_added": "2025-05-08"
     },
     {
+        "exchange": "Bitget",
+        "coin": "SmartX Token",
+        "ticker": "SXT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "SmartX Token",
+        "ticker": "SXT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "SmartX Token",
+        "ticker": "SXT",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Richie Doge",
+        "ticker": "RICHIE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Academic Labs",
         "ticker": "AAX",
