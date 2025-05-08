@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "RWAI",
+        "ticker": "RWAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Academic Labs",
         "ticker": "AAX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
