@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "gorilla",
+        "ticker": "GORILLABSC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "titcoin",
         "ticker": "TITCOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -138,54 +145,5 @@
         "ticker": "OBOL",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Archive AI",
-        "ticker": "ARCHAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MYX Network",
-        "ticker": "MYX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Archive AI",
-        "ticker": "ARCHAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "MYX Network",
-        "ticker": "MYX",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Maple Finance",
-        "ticker": "SYRUP",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Kamino",
-        "ticker": "KMNO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-06"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Maple Finance",
-        "ticker": "SYRUP",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-06"
     }
 ]
