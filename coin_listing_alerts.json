@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Zon Token",
+        "ticker": "ZON",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-09"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "SUEDE AI",
+        "ticker": "SUEDE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "titcoin",
         "ticker": "TITCOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
