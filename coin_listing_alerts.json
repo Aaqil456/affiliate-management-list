@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "moonpig",
+        "ticker": "MOONPIG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-11"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "gorilla",
         "ticker": "GORILLABSC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
