@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "FIBOS",
+        "ticker": "FO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-11"
+    },
+    {
         "exchange": "MEXC",
         "coin": "gorilla",
         "ticker": "GORILLABSC",
@@ -47,145 +54,5 @@
         "ticker": "HENLO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "titcoin",
-        "ticker": "TITCOIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Psyche",
-        "ticker": "USD1",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "shardeum",
-        "ticker": "SHM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "shardeum",
-        "ticker": "SHM",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "shardeum",
-        "ticker": "SHM",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RWAI",
-        "ticker": "RWAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "trencher",
-        "ticker": "TRENCHER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Let's BONK",
-        "ticker": "LETSBONK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SmartX Token",
-        "ticker": "SXT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "SmartX Token",
-        "ticker": "SXT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "SmartX Token",
-        "ticker": "SXT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SmartX Token",
-        "ticker": "SXT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "SmartX Token",
-        "ticker": "SXT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Richie Doge",
-        "ticker": "RICHIE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Academic Labs",
-        "ticker": "AAX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SPACEM",
-        "ticker": "SPACEM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Based Finance Next Gen",
-        "ticker": "OBOL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Based Finance Next Gen",
-        "ticker": "OBOL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Based Finance Next Gen",
-        "ticker": "OBOL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-07"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Based Finance Next Gen",
-        "ticker": "OBOL",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-07"
     }
 ]
