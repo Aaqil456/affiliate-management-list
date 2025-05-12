@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "STAU",
+        "ticker": "STAU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-12"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "FIBOS",
         "ticker": "FO",
@@ -12,54 +19,5 @@
         "ticker": "MOONPIG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "gorilla",
-        "ticker": "GORILLABSC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zon Token",
-        "ticker": "ZON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SUEDE AI",
-        "ticker": "SUEDE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long MOODENG Token",
-        "ticker": "MOODENG3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short MOODENG Token",
-        "ticker": "MOODENG3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Capy",
-        "ticker": "CAPY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "henlo",
-        "ticker": "HENLO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-09"
     }
 ]
