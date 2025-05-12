@@ -7,6 +7,27 @@
         "date_added": "2025-05-12"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Mindsync",
+        "ticker": "MAI",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-12"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long GOAT Token",
+        "ticker": "GOAT3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-12"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Short GOAT Token",
+        "ticker": "GOAT3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-12"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "FIBOS",
         "ticker": "FO",
