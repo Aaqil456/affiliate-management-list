@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "GALAXY NETWORK",
+        "ticker": "GNC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-13"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "BELUGA",
+        "ticker": "BELUGA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-13"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "STAU",
         "ticker": "STAU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
