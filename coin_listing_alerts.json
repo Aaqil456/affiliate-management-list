@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "CoralPay",
+        "ticker": "CORAL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-13"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "STAU",
         "ticker": "STAU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
