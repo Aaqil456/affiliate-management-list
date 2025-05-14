@@ -56,6 +56,20 @@
         "date_added": "2025-05-14"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Proto Rai Reflex Index",
+        "ticker": "PRAI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-14"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "OpenServ",
+        "ticker": "SERV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-14"
+    },
+    {
         "exchange": "MEXC",
         "coin": "GALAXY NETWORK",
         "ticker": "GNC",
