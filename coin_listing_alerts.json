@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "gooncoin",
+        "ticker": "GOONC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-14"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "dupe",
+        "ticker": "DUPE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "GALAXY NETWORK",
         "ticker": "GNC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -138,19 +152,5 @@
         "ticker": "CLX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "FIBOS",
-        "ticker": "FO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "moonpig",
-        "ticker": "MOONPIG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-11"
     }
 ]
