@@ -14,6 +14,20 @@
         "date_added": "2025-05-14"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "3X Short EIGEN Token",
+        "ticker": "EIGEN3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-14"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long EIGEN Token",
+        "ticker": "EIGEN3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-14"
+    },
+    {
         "exchange": "MEXC",
         "coin": "GALAXY NETWORK",
         "ticker": "GNC",
