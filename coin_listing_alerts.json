@@ -50,6 +50,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Proto Rai Reflex Index",
+        "ticker": "PRAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "GALAXY NETWORK",
         "ticker": "GNC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
