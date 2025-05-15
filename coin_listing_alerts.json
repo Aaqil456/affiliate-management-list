@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "NEXPACE",
+        "ticker": "NXPC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "gooncoin",
         "ticker": "GOONC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -180,40 +187,5 @@
         "ticker": "GNESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "STAU",
-        "ticker": "STAU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-12"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Mindsync",
-        "ticker": "MAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long GOAT Token",
-        "ticker": "GOAT3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short GOAT Token",
-        "ticker": "GOAT3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Celeum",
-        "ticker": "CLX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-12"
     }
 ]
