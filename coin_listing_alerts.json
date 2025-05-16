@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Useless Token",
+        "ticker": "USELESS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "NEXPACE",
         "ticker": "NXPC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -131,110 +138,5 @@
         "ticker": "PRAI",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GALAXY NETWORK",
-        "ticker": "GNC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BELUGA",
-        "ticker": "BELUGA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AnarchistsPrime",
-        "ticker": "ACP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GALAXY NETWORK",
-        "ticker": "GNC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CoralPay",
-        "ticker": "CORAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long APT Token",
-        "ticker": "APT5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long FIL",
-        "ticker": "FIL5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short NEAR",
-        "ticker": "NEAR5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short FIL",
-        "ticker": "FIL5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long NEAR",
-        "ticker": "NEAR5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short AVAX Token",
-        "ticker": "AVAX5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long AVAX Token",
-        "ticker": "AVAX5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Long WLD Token",
-        "ticker": "WLD5L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "5X Short WLD Token",
-        "ticker": "WLD5S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Gameness Token",
-        "ticker": "GNESS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-13"
     }
 ]
