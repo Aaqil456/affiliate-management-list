@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Nobody Sausage",
+        "ticker": "NOBODY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-16"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Mirai",
+        "ticker": "MIRAI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "NEXPACE",
         "ticker": "NXPC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
