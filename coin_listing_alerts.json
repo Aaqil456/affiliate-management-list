@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Maganomics",
+        "ticker": "MAGANOMICS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Useless Token",
         "ticker": "USELESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
