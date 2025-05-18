@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "HalalChain",
+        "ticker": "HLC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Useless Token",
         "ticker": "USELESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,138 +47,5 @@
         "ticker": "DOGINME",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-05-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "NEXPACE",
-        "ticker": "NXPC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "NEXPACE",
-        "ticker": "NXPC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "NEXPACE",
-        "ticker": "NXPC",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "NEXPACE",
-        "ticker": "NXPC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "NEXPACE",
-        "ticker": "NXPC",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SUIRWAPIN",
-        "ticker": "SUIRWAPIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SUIRWAPIN",
-        "ticker": "SUIRWAPIN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Aventus",
-        "ticker": "AVT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "gooncoin",
-        "ticker": "GOONC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "dupe",
-        "ticker": "DUPE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short EIGEN Token",
-        "ticker": "EIGEN3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long EIGEN Token",
-        "ticker": "EIGEN3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "SKYAI",
-        "ticker": "SKYAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GET Protocol",
-        "ticker": "GET",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GET Protocol",
-        "ticker": "GET",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Proto Rai Reflex Index",
-        "ticker": "PRAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Proto Rai Reflex Index",
-        "ticker": "PRAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OpenServ",
-        "ticker": "SERV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Proto Rai Reflex Index",
-        "ticker": "PRAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-14"
     }
 ]
