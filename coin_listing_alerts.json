@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "AweCoin",
+        "ticker": "AWE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ICEBERG",
         "ticker": "ICEBERG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
