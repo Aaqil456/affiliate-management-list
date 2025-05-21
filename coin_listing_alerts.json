@@ -43,6 +43,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "The AI Dev Bot",
+        "ticker": "AIDEV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-21"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Centrifuge",
+        "ticker": "CFG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ICEBERG",
         "ticker": "ICEBERG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
