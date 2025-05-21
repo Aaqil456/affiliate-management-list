@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "VELAAI",
+        "ticker": "VELAAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ICEBERG",
         "ticker": "ICEBERG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,19 +61,5 @@
         "ticker": "TRAX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "HalalChain",
-        "ticker": "HLC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Maganomics",
-        "ticker": "MAGANOMICS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-18"
     }
 ]
