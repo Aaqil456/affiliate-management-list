@@ -43,6 +43,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Stable",
+        "ticker": "STB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "VELAAI",
         "ticker": "VELAAI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
