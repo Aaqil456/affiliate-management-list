@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "AweCoin",
+        "ticker": "AWE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-22"
+    },
+    {
         "exchange": "MEXC",
         "coin": "VELAAI",
         "ticker": "VELAAI",
@@ -96,33 +103,5 @@
         "ticker": "GIZA",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-05-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "doginme",
-        "ticker": "DOGINME",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short ETHFI Token",
-        "ticker": "ETHFI3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long ETHFI Token",
-        "ticker": "ETHFI3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Privi TRAX",
-        "ticker": "TRAX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-19"
     }
 ]
