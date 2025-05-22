@@ -28,6 +28,20 @@
         "date_added": "2025-05-22"
     },
     {
+        "exchange": "Bitget",
+        "coin": "BankCoin",
+        "ticker": "B",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-22"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Psyche",
+        "ticker": "USD1",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-05-22"
+    },
+    {
         "exchange": "MEXC",
         "coin": "VELAAI",
         "ticker": "VELAAI",
