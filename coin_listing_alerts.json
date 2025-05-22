@@ -14,6 +14,20 @@
         "date_added": "2025-05-22"
     },
     {
+        "exchange": "Bitget",
+        "coin": "AweCoin",
+        "ticker": "AWE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Anita AI",
+        "ticker": "ANITA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-22"
+    },
+    {
         "exchange": "MEXC",
         "coin": "VELAAI",
         "ticker": "VELAAI",
