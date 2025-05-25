@@ -1,65 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "LanLan Cat",
+        "ticker": "LANLAN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-25"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DinoSwap",
         "ticker": "DINO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AweCoin",
-        "ticker": "AWE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BankCoin",
-        "ticker": "B",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "AweCoin",
-        "ticker": "AWE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Anita AI",
-        "ticker": "ANITA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BankCoin",
-        "ticker": "B",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Psyche",
-        "ticker": "USD1",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Stable",
-        "ticker": "STB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Stable",
-        "ticker": "STB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-22"
     }
 ]
