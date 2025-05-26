@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Huma Inu",
+        "ticker": "t.me/humainucoin",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "LanLan Cat",
         "ticker": "LANLAN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
