@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Alpha Token",
+        "ticker": "A",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BananaCat",
         "ticker": "BCAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
