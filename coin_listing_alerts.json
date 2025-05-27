@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Labubu",
+        "ticker": "LABUBU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BananaCat",
         "ticker": "BCAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,12 +61,5 @@
         "ticker": "LANLAN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DinoSwap",
-        "ticker": "DINO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-24"
     }
 ]
