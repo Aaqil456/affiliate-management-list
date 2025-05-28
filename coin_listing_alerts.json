@@ -57,6 +57,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "OPEN GPU",
+        "ticker": "OGPU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Labubu",
         "ticker": "LABUBU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
