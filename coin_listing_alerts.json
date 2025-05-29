@@ -1,5 +1,26 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Ripple USD",
+        "ticker": "RLUSD",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-29"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Aurum0x  Protocol",
+        "ticker": "AO",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-05-29"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Rodeo",
+        "ticker": "RDO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-29"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Razor",
         "ticker": "RZR",
@@ -159,54 +180,5 @@
         "ticker": "SILO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BananaCat",
-        "ticker": "BCAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Psyche",
-        "ticker": "USD1",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Huma Inu",
-        "ticker": "t.me/humainucoin",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Huma Inu",
-        "ticker": "t.me/humainucoin",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Huma Inu",
-        "ticker": "t.me/humainucoin",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Huma Inu",
-        "ticker": "t.me/humainucoin",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-26"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Huma Inu",
-        "ticker": "t.me/humainucoin",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-26"
     }
 ]
