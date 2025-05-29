@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Infireum",
+        "ticker": "IFR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-29"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Razor",
         "ticker": "RZR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
