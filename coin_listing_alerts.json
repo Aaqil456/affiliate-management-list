@@ -35,6 +35,20 @@
         "date_added": "2025-05-30"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Crypto Tickets",
+        "ticker": "TKT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-30"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Labubu",
+        "ticker": "LABUBU",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-05-30"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Ripple USD",
         "ticker": "RLUSD",
