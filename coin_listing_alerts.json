@@ -7,6 +7,34 @@
         "date_added": "2025-05-30"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Assisterr AI",
+        "ticker": "ASRR",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-05-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Short LPT",
+        "ticker": "LPT3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long LPT",
+        "ticker": "LPT3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-30"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Assisterr AI",
+        "ticker": "ASRR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-30"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Ripple USD",
         "ticker": "RLUSD",
