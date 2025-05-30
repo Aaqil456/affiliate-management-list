@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Fishwar",
+        "ticker": "FISHW",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-30"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Ripple USD",
         "ticker": "RLUSD",
@@ -117,82 +124,5 @@
         "ticker": "USD1",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Labubu",
-        "ticker": "LABUBU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Alpha Token",
-        "ticker": "A",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Elderglade",
-        "ticker": "ELDE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Elderglade",
-        "ticker": "ELDE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Elderglade",
-        "ticker": "ELDE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Haven1",
-        "ticker": "H1",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Puffverse",
-        "ticker": "PFVS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Puffverse",
-        "ticker": "PFVS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Puffverse",
-        "ticker": "PFVS",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Octo Gaming",
-        "ticker": "OTK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Silo",
-        "ticker": "SILO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-27"
     }
 ]
