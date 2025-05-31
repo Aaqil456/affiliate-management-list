@@ -22,6 +22,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "AMMBR",
+        "ticker": "AMR",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-05-31"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Fishwar",
         "ticker": "FISHW",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
