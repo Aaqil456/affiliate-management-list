@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "PurrCoin",
+        "ticker": "PURR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-05-31"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Fishwar",
         "ticker": "FISHW",
@@ -82,89 +89,5 @@
         "ticker": "IFR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-05-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Razor",
-        "ticker": "RZR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Alpha Token",
-        "ticker": "A",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Alpha Token",
-        "ticker": "A",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Alpha Token",
-        "ticker": "A",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Alpha Token",
-        "ticker": "A",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zygo the frog",
-        "ticker": "ZYGO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BunnyCoin",
-        "ticker": "BUN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Unchain X",
-        "ticker": "UNX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OPEN GPU",
-        "ticker": "OGPU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Freya by Virtuals",
-        "ticker": "FREYA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "SophiaVerse",
-        "ticker": "SOPH",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-05-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Psyche",
-        "ticker": "USD1",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-28"
     }
 ]
