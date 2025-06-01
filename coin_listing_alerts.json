@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Izzy",
+        "ticker": "IZZY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "PurrCoin",
         "ticker": "PURR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
