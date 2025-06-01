@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Loud Market",
+        "ticker": "LOUD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "PurrCoin",
         "ticker": "PURR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,40 +82,5 @@
         "ticker": "LABUBU",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-05-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Ripple USD",
-        "ticker": "RLUSD",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-05-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Aurum0x  Protocol",
-        "ticker": "AO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-05-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rodeo",
-        "ticker": "RDO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Gochujangcoin",
-        "ticker": "GOCHU",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-05-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Infireum",
-        "ticker": "IFR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-05-29"
     }
 ]
