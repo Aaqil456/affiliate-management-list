@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Stabull Finance",
+        "ticker": "STABUL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-02"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Loud Market",
         "ticker": "LOUD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
