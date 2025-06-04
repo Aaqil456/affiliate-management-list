@@ -14,6 +14,27 @@
         "date_added": "2025-06-04"
     },
     {
+        "exchange": "Bybit",
+        "coin": "LAToken",
+        "ticker": "LA",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-06-04"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "LAToken",
+        "ticker": "LA",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-04"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "LAToken",
+        "ticker": "LA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-04"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "moonpig",
         "ticker": "MOONPIG",
