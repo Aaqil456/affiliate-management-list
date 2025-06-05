@@ -21,6 +21,20 @@
         "date_added": "2025-06-05"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Winerz",
+        "ticker": "WNZ",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "StorePay",
+        "ticker": "SPCFIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-05"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Megalink",
         "ticker": "MG8",
