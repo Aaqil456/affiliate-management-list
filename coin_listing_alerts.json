@@ -35,6 +35,13 @@
         "date_added": "2025-06-05"
     },
     {
+        "exchange": "MEXC",
+        "coin": "pumpBTC",
+        "ticker": "PUMPBTC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-05"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Megalink",
         "ticker": "MG8",
