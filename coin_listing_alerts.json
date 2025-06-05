@@ -1,6 +1,13 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "LAToken",
+        "ticker": "LA",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-05"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Megalink",
         "ticker": "MG8",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
@@ -54,33 +61,5 @@
         "ticker": "RWA",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-06-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "LayerEdge",
-        "ticker": "EDGEN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "LayerEdge",
-        "ticker": "EDGEN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Stabull Finance",
-        "ticker": "STABUL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GOHOME",
-        "ticker": "GOHOME",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-02"
     }
 ]
