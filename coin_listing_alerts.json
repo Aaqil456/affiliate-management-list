@@ -28,6 +28,13 @@
         "date_added": "2025-06-06"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Flycoin",
+        "ticker": "FLY",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-06"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "LAToken",
         "ticker": "LA",
