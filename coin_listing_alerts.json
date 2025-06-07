@@ -1,6 +1,13 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "pumpBTC",
+        "ticker": "PUMPBTC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-07"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "3X Long RVN",
         "ticker": "RVN3L",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
@@ -89,47 +96,5 @@
         "ticker": "ILMT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Megalink",
-        "ticker": "MG8",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-04"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "pumpBTC",
-        "ticker": "PUMPBTC",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-06-04"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "LAToken",
-        "ticker": "LA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-06-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "LAToken",
-        "ticker": "LA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "LAToken",
-        "ticker": "LA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "UniFlower",
-        "ticker": "FLOWER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-04"
     }
 ]
