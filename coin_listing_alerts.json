@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "EGL1",
+        "ticker": "EGL1",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Treon",
         "ticker": "TXO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,47 +19,5 @@
         "ticker": "PUMPBTC",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-06-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long RVN",
-        "ticker": "RVN3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-06"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short RVN",
-        "ticker": "RVN3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-06"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Ravencoin",
-        "ticker": "RVN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bulla",
-        "ticker": "BULLA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-06"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Flycoin",
-        "ticker": "FLY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BOBER",
-        "ticker": "BOBER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-06"
     }
 ]
