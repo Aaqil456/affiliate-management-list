@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Skate",
+        "ticker": "SKATE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Treon",
         "ticker": "TXO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
