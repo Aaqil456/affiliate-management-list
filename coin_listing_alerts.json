@@ -14,6 +14,27 @@
         "date_added": "2025-06-09"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Skate",
+        "ticker": "SKATE",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-06-09"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Skate",
+        "ticker": "SKATE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-09"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Skate",
+        "ticker": "SKATE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-09"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Treon",
         "ticker": "TXO",
