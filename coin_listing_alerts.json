@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Resolv",
+        "ticker": "RESOLV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-10"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "EGL1",
         "ticker": "EGL1",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
