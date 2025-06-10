@@ -15,6 +15,27 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "KAIDEX",
+        "ticker": "KDX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-10"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "HomeCoin",
+        "ticker": "HOME",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-06-10"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "HomeCoin",
+        "ticker": "HOME",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-10"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "EGL1",
         "ticker": "EGL1",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
