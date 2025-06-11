@@ -42,6 +42,13 @@
         "date_added": "2025-06-11"
     },
     {
+        "exchange": "MEXC",
+        "coin": "MetaniaGames",
+        "ticker": "METANIA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-11"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BSquared Token",
         "ticker": "B2",
