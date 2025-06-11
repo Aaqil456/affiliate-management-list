@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "IDOL COIN",
+        "ticker": "IDOL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "MINE COIN",
+        "ticker": "MIH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-11"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BSquared Token",
         "ticker": "B2",
@@ -96,12 +110,5 @@
         "ticker": "SKATE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-06-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Treon",
-        "ticker": "TXO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-08"
     }
 ]
