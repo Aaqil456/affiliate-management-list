@@ -29,6 +29,20 @@
     },
     {
         "exchange": "Bitget",
+        "coin": "IDOL COIN",
+        "ticker": "IDOL",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-11"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "IDOL COIN",
+        "ticker": "IDOL",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-11"
+    },
+    {
+        "exchange": "Bitget",
         "coin": "BSquared Token",
         "ticker": "B2",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
