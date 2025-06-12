@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "TagCoin",
+        "ticker": "TAG",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-12"
+    },
+    {
         "exchange": "MEXC",
         "coin": "IDOL COIN",
         "ticker": "IDOL",
@@ -117,40 +124,5 @@
         "ticker": "RESOLV",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-06-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "EGL1",
-        "ticker": "EGL1",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Skate",
-        "ticker": "SKATE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-09"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Skate",
-        "ticker": "SKATE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-06-09"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Skate",
-        "ticker": "SKATE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Skate",
-        "ticker": "SKATE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-09"
     }
 ]
