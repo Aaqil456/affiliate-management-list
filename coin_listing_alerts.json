@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "TuringNetworkToken",
+        "ticker": "TNK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "IDOL COIN",
         "ticker": "IDOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
