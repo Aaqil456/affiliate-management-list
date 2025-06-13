@@ -14,6 +14,13 @@
         "date_added": "2025-06-13"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Sudan Gold Coin",
+        "ticker": "SGC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-13"
+    },
+    {
         "exchange": "Bitget",
         "coin": "TagCoin",
         "ticker": "TAG",
