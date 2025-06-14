@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "InfluxAI Token",
+        "ticker": "IFAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Primalbase Token",
         "ticker": "PBT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -47,61 +54,5 @@
         "ticker": "HOME",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-06-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "IDOL COIN",
-        "ticker": "IDOL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MINE COIN",
-        "ticker": "MIH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Labubu",
-        "ticker": "LABUBU",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Broak on Base",
-        "ticker": "BROAK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "IDOL COIN",
-        "ticker": "IDOL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "IDOL COIN",
-        "ticker": "IDOL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MetaniaGames",
-        "ticker": "METANIA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-11"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Resolv",
-        "ticker": "RESOLV",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-06-11"
     }
 ]
