@@ -63,6 +63,13 @@
         "date_added": "2025-06-17"
     },
     {
+        "exchange": "Bybit",
+        "coin": "BOMB",
+        "ticker": "BOMB",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-06-17"
+    },
+    {
         "exchange": "MEXC",
         "coin": "BitGuild",
         "ticker": "PLAT",
