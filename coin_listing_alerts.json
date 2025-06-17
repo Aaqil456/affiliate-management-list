@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Spark",
+        "ticker": "SPK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BitGuild",
         "ticker": "PLAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
