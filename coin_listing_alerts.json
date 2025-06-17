@@ -1,44 +1,23 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "3X Short ALT Token",
+        "ticker": "ALT3S",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-17"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "3X Long ALT Token",
+        "ticker": "ALT3L",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-17"
+    },
+    {
         "exchange": "MEXC",
         "coin": "BitGuild",
         "ticker": "PLAT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "InfluxAI Token",
-        "ticker": "IFAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Primalbase Token",
-        "ticker": "PBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sudan Gold Coin",
-        "ticker": "SGC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Sudan Gold Coin",
-        "ticker": "SGC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bitchemical",
-        "ticker": "BCHEM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-13"
     }
 ]
