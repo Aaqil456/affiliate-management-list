@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Janitor",
+        "ticker": "JANITOR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-18"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "3X Short ALT Token",
         "ticker": "ALT3S",
@@ -75,12 +82,5 @@
         "ticker": "MASKSOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BitGuild",
-        "ticker": "PLAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-15"
     }
 ]
