@@ -29,6 +29,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Quidax",
+        "ticker": "QDX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-19"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "ElonSwap.Exchange",
+        "ticker": "ESX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Janitor",
         "ticker": "JANITOR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
