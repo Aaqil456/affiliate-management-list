@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Gorbaniov",
+        "ticker": "GOR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Namaste",
         "ticker": "NAM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -68,82 +75,5 @@
         "ticker": "BEE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short ALT Token",
-        "ticker": "ALT3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long ALT Token",
-        "ticker": "ALT3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Spark",
-        "ticker": "SPK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Spark",
-        "ticker": "SPK",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Spark",
-        "ticker": "SPK",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Spark",
-        "ticker": "SPK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Spark",
-        "ticker": "SPK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SolChicks Shards",
-        "ticker": "SHARDS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Arena",
-        "ticker": "ARENA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "BOMB",
-        "ticker": "BOMB",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-06-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "catwifmask",
-        "ticker": "MASKSOL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-17"
     }
 ]
