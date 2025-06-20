@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "InfinitUp",
+        "ticker": "IUP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Namaste",
         "ticker": "NAM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
