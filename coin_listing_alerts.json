@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Smarts.Finance",
+        "ticker": "SMAT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Namaste",
         "ticker": "NAM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
