@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "BrightCoin",
+        "ticker": "BRIC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Gorbaniov",
         "ticker": "GOR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -82,33 +89,5 @@
         "ticker": "ESX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Janitor",
-        "ticker": "JANITOR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dork Lord",
-        "ticker": "DORKY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Fantom USD",
-        "ticker": "FUSD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bee Token",
-        "ticker": "BEE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-18"
     }
 ]
