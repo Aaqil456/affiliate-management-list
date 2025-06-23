@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Lukki Operating Token",
+        "ticker": "LOT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-23"
+    },
+    {
         "exchange": "MEXC",
         "coin": "BrightCoin",
         "ticker": "BRIC",
@@ -19,89 +26,5 @@
         "ticker": "BRIC",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-06-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Gorbaniov",
-        "ticker": "GOR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Smarts.Finance",
-        "ticker": "SMAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "InfinitUp",
-        "ticker": "IUP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Block Creatures",
-        "ticker": "MOOLAH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lukki Operating Token",
-        "ticker": "LOT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Lukki Operating Token",
-        "ticker": "LOT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Namaste",
-        "ticker": "NAM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rexas Finance",
-        "ticker": "RXS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Namaste",
-        "ticker": "NAM",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Monster Adventure Token",
-        "ticker": "MAT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Quidax",
-        "ticker": "QDX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ElonSwap.Exchange",
-        "ticker": "ESX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-19"
     }
 ]
