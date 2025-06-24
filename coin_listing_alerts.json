@@ -14,6 +14,20 @@
         "date_added": "2025-06-24"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Money God One",
+        "ticker": "MGO",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-24"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Money God One",
+        "ticker": "MGO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-24"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Lukki Operating Token",
         "ticker": "LOT",
