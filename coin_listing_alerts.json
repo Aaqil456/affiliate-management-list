@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Nura Labs",
+        "ticker": "NURA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-25"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "KLEVA Protocol",
         "ticker": "KLEVA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
