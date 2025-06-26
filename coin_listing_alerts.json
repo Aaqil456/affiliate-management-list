@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "CESS Network",
+        "ticker": "CESS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Nura Labs",
         "ticker": "NURA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -96,12 +103,5 @@
         "ticker": "SCAM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Lukki Operating Token",
-        "ticker": "LOT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-23"
     }
 ]
