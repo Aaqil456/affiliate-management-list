@@ -57,6 +57,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Blocktix",
+        "ticker": "TIX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Nura Labs",
         "ticker": "NURA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
