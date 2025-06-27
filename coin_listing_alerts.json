@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "More",
+        "ticker": "MORE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CESS Network",
         "ticker": "CESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -110,54 +117,5 @@
         "ticker": "LAMBO",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-06-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KLEVA Protocol",
-        "ticker": "KLEVA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Money God One",
-        "ticker": "MGO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Money God One",
-        "ticker": "MGO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Money God One",
-        "ticker": "MGO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DynamicCoin",
-        "ticker": "DMC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "DynamicCoin",
-        "ticker": "DMC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Scammet",
-        "ticker": "SCAM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-24"
     }
 ]
