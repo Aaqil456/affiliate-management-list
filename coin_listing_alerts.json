@@ -22,6 +22,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "R0AR",
+        "ticker": "1R0R",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "EGL1",
+        "ticker": "EGL1",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CESS Network",
         "ticker": "CESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
