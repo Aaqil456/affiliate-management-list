@@ -1,6 +1,27 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "R0AR",
+        "ticker": "1R0R",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "EGL1",
+        "ticker": "EGL1",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "More",
+        "ticker": "MORE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CopperCoin",
         "ticker": "COPPER",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,40 +33,5 @@
         "ticker": "ZODI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "More",
-        "ticker": "MORE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "More",
-        "ticker": "MORE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "More",
-        "ticker": "MORE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "R0AR",
-        "ticker": "1R0R",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "EGL1",
-        "ticker": "EGL1",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-27"
     }
 ]
