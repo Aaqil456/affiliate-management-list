@@ -50,6 +50,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Cubetics",
+        "ticker": "TICS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Node",
+        "ticker": "NODE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CopperCoin",
         "ticker": "COPPER",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
