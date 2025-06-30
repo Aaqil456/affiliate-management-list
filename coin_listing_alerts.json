@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "WAGMI HUB",
+        "ticker": "INFOFI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-06-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CopperCoin",
         "ticker": "COPPER",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
