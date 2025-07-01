@@ -21,6 +21,27 @@
         "date_added": "2025-07-01"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Fragmint",
+        "ticker": "FRAG",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-01"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Fragmint",
+        "ticker": "FRAG",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-07-01"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Fragmint",
+        "ticker": "FRAG",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "R0AR",
         "ticker": "1R0R",
