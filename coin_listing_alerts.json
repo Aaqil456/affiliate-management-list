@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Paycentos",
+        "ticker": "PYN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "R0AR",
         "ticker": "1R0R",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,12 +82,5 @@
         "ticker": "COPPER",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zodiac DFO",
-        "ticker": "ZODI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-28"
     }
 ]
