@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Fragmint",
+        "ticker": "FRAG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "R0AR",
         "ticker": "1R0R",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
