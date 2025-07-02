@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "RiveX",
+        "ticker": "RVX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-02"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Theresa May Coin",
+        "ticker": "MAY",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-02"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Paycentos",
         "ticker": "PYN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -124,12 +138,5 @@
         "ticker": "GO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CopperCoin",
-        "ticker": "COPPER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-29"
     }
 ]
