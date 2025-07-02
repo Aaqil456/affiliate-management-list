@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Reciprocation",
+        "ticker": "ECHO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-02"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Paycentos",
         "ticker": "PYN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
