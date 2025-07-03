@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "MetaVerse-M",
+        "ticker": "M",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-03"
+    },
+    {
         "exchange": "MEXC",
         "coin": "RiveX",
         "ticker": "RVX",
@@ -96,75 +103,5 @@
         "ticker": "B3TR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "R0AR",
-        "ticker": "1R0R",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "EGL1",
-        "ticker": "EGL1",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "More",
-        "ticker": "MORE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SuperOne",
-        "ticker": "SRX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "STO Cash",
-        "ticker": "STOC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "WAGMI HUB",
-        "ticker": "INFOFI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Node",
-        "ticker": "NODE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cubetics",
-        "ticker": "TICS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Node",
-        "ticker": "NODE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-06-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GoChain",
-        "ticker": "GO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-06-30"
     }
 ]
