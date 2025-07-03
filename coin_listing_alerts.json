@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Impossible Cloud Network",
+        "ticker": "ICNT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "RiveX",
         "ticker": "RVX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
