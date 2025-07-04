@@ -7,6 +7,20 @@
         "date_added": "2025-07-04"
     },
     {
+        "exchange": "MEXC",
+        "coin": "CrossPad",
+        "ticker": "CROSS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-04"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Wrapped REACT",
+        "ticker": "REACT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-04"
+    },
+    {
         "exchange": "Bitget",
         "coin": "MetaVerse-M",
         "ticker": "M",
