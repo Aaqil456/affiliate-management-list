@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "AI Network",
+        "ticker": "AIN",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-05"
+    },
+    {
         "exchange": "MEXC",
         "coin": "KIKU INU",
         "ticker": "KINU",
@@ -75,47 +82,5 @@
         "ticker": "ICNT",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-07-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RiveX",
-        "ticker": "RVX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Theresa May Coin",
-        "ticker": "MAY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Reciprocation",
-        "ticker": "ECHO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Arowana Token",
-        "ticker": "ARW",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Reciprocation",
-        "ticker": "ECHO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-02"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "MetaverseX",
-        "ticker": "METAX",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-02"
     }
 ]
