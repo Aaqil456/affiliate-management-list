@@ -1,86 +1,16 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Auction Finance",
+        "ticker": "AFT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-07"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AI Network",
         "ticker": "AIN",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-07-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KIKU INU",
-        "ticker": "KINU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CrossPad",
-        "ticker": "CROSS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Wrapped REACT",
-        "ticker": "REACT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CrossPad",
-        "ticker": "CROSS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "CrossPad",
-        "ticker": "CROSS",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Auction Finance",
-        "ticker": "AFT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "MetaVerse-M",
-        "ticker": "M",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Impossible Cloud Network",
-        "ticker": "ICNT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-03"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Impossible Cloud Network",
-        "ticker": "ICNT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Impossible Cloud Network",
-        "ticker": "ICNT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-03"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Impossible Cloud Network",
-        "ticker": "ICNT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-03"
     }
 ]
