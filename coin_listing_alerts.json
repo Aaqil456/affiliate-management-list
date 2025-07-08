@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "DECENT",
+        "ticker": "DCT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-08"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Auction Finance",
         "ticker": "AFT",
@@ -40,12 +47,5 @@
         "ticker": "PAL",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AI Network",
-        "ticker": "AIN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-05"
     }
 ]
