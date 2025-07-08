@@ -28,6 +28,13 @@
         "date_added": "2025-07-08"
     },
     {
+        "exchange": "MEXC",
+        "coin": "BOOM Coin",
+        "ticker": "BOOM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-08"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Auction Finance",
         "ticker": "AFT",
