@@ -36,6 +36,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Chill House",
+        "ticker": "CHILLHOUSE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-09"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "LAToken",
+        "ticker": "LA",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-07-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DECENT",
         "ticker": "DCT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
