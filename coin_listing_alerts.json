@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Psyche",
+        "ticker": "USD1",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-07-09"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Rescue",
+        "ticker": "RESCUE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-09"
+    },
+    {
         "exchange": "MEXC",
         "coin": "DECENT",
         "ticker": "DCT",
