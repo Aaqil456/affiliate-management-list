@@ -21,6 +21,20 @@
         "date_added": "2025-07-09"
     },
     {
+        "exchange": "Bitget",
+        "coin": "RCADE",
+        "ticker": "RCADE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-09"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "RCADE",
+        "ticker": "RCADE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-09"
+    },
+    {
         "exchange": "MEXC",
         "coin": "DECENT",
         "ticker": "DCT",
