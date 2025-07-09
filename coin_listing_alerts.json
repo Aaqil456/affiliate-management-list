@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "RCADE",
+        "ticker": "RCADE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DECENT",
         "ticker": "DCT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
