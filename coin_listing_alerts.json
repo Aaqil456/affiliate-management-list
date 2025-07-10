@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "FolgoryUSD",
+        "ticker": "USDF",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-10"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Psyche",
         "ticker": "USD1",
@@ -89,47 +96,5 @@
         "ticker": "BOOM",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Auction Finance",
-        "ticker": "AFT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "FONE",
-        "ticker": "FONE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dimensions Network",
-        "ticker": "DST",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PolicyPal Network",
-        "ticker": "PAL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MORI",
-        "ticker": "MORI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PolicyPal Network",
-        "ticker": "PAL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-07"
     }
 ]
