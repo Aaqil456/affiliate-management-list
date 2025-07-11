@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Hyperliquid",
+        "ticker": "HYPE",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-07-11"
+    },
+    {
         "exchange": "MEXC",
         "coin": "FolgoryUSD",
         "ticker": "USDF",
@@ -61,47 +68,5 @@
         "ticker": "LA",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DECENT",
-        "ticker": "DCT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Theresa May Coin",
-        "ticker": "MAY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Croakey",
-        "ticker": "CROAK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "TagCoin",
-        "ticker": "TAG",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BOOM Coin",
-        "ticker": "BOOM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BOOM Coin",
-        "ticker": "BOOM",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-08"
     }
 ]
