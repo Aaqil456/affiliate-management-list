@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "ICB Network",
+        "ticker": "ICBX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-11"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Useless Coin",
+        "ticker": "USELESS",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-11"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "FolgoryUSD",
         "ticker": "USDF",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
