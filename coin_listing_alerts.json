@@ -28,6 +28,13 @@
         "date_added": "2025-07-11"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Tales Of Chain",
+        "ticker": "TALE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-11"
+    },
+    {
         "exchange": "MEXC",
         "coin": "FolgoryUSD",
         "ticker": "USDF",
