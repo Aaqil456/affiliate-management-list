@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "AGENDA 47",
+        "ticker": "A47",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-12"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Hyperliquid",
         "ticker": "HYPE",
@@ -47,54 +54,5 @@
         "ticker": "STOP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-10"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Psyche",
-        "ticker": "USD1",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rescue",
-        "ticker": "RESCUE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RCADE",
-        "ticker": "RCADE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "RCADE",
-        "ticker": "RCADE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "RCADE",
-        "ticker": "RCADE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Chill House",
-        "ticker": "CHILLHOUSE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-09"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "LAToken",
-        "ticker": "LA",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-07-09"
     }
 ]
