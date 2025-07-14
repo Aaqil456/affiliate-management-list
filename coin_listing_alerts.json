@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Tales Of Chain",
+        "ticker": "TALE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-14"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "PePeonTron",
+        "ticker": "PEPEONTRON",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-14"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Sentinel",
         "ticker": "SENT",
@@ -12,40 +26,5 @@
         "ticker": "A47",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-07-12"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Hyperliquid",
-        "ticker": "HYPE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ICB Network",
-        "ticker": "ICBX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Useless Coin",
-        "ticker": "USELESS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PePeonTron",
-        "ticker": "PEPEONTRON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-11"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Tales Of Chain",
-        "ticker": "TALE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-11"
     }
 ]
