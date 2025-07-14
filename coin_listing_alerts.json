@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "CharPunk.Com",
+        "ticker": "C",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Sentinel",
         "ticker": "SENT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
