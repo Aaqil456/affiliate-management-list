@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Kori Inu",
+        "ticker": "KORI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-15"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Tales Of Chain",
         "ticker": "TALE",
@@ -33,12 +40,5 @@
         "ticker": "SENT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-13"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "AGENDA 47",
-        "ticker": "A47",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-12"
     }
 ]
