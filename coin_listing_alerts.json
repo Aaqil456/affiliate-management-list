@@ -8,6 +8,20 @@
     },
     {
         "exchange": "Bitget",
+        "coin": "W1",
+        "ticker": "W1",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-15"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "StarryNift",
+        "ticker": "TBA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-15"
+    },
+    {
+        "exchange": "Bitget",
         "coin": "Tales Of Chain",
         "ticker": "TALE",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
