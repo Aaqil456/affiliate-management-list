@@ -56,6 +56,20 @@
         "date_added": "2025-07-15"
     },
     {
+        "exchange": "MEXC",
+        "coin": "DiemLibre",
+        "ticker": "DLB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-15"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Hybrid Block",
+        "ticker": "HYB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-15"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Tales Of Chain",
         "ticker": "TALE",
