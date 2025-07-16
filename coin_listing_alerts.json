@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Animecoin",
+        "ticker": "ANI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Kori Inu",
         "ticker": "KORI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -110,12 +117,5 @@
         "ticker": "C",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-07-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sentinel",
-        "ticker": "SENT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-13"
     }
 ]
