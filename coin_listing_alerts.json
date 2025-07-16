@@ -14,6 +14,27 @@
         "date_added": "2025-07-16"
     },
     {
+        "exchange": "Bitget",
+        "coin": "E-Shop",
+        "ticker": "ES",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-16"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "E-Shop",
+        "ticker": "ES",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-16"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "E-Shop",
+        "ticker": "ES",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-07-16"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Kori Inu",
         "ticker": "KORI",
