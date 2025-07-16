@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Vision Network",
+        "ticker": "VSN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Kori Inu",
         "ticker": "KORI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
