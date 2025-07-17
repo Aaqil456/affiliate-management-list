@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "PokeCoin",
+        "ticker": "POKE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Animecoin",
         "ticker": "ANI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -131,33 +138,5 @@
         "ticker": "JUNE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Tales Of Chain",
-        "ticker": "TALE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PePeonTron",
-        "ticker": "PEPEONTRON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CharPunk.Com",
-        "ticker": "C",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "CharPunk.Com",
-        "ticker": "C",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-14"
     }
 ]
