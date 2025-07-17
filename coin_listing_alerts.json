@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "YURU COIN",
+        "ticker": "YURU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Animecoin",
         "ticker": "ANI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
