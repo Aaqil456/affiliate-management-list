@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Coinstar",
+        "ticker": "CSTAR",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-18"
+    },
+    {
         "exchange": "MEXC",
         "coin": "PokeCoin",
         "ticker": "POKE",
@@ -103,89 +110,5 @@
         "ticker": "VSN",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-07-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Kori Inu",
-        "ticker": "KORI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "W1",
-        "ticker": "W1",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "StarryNift",
-        "ticker": "TBA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Animecoin",
-        "ticker": "ANI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Talkcoin",
-        "ticker": "TAC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Talkcoin",
-        "ticker": "TAC",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Triple Bao Chain",
-        "ticker": "TBC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Talkcoin",
-        "ticker": "TAC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DiemLibre",
-        "ticker": "DLB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Hybrid Block",
-        "ticker": "HYB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Minutes Network Token",
-        "ticker": "MNTX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KOMORI",
-        "ticker": "JUNE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-15"
     }
 ]
