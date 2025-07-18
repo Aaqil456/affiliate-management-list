@@ -36,6 +36,34 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Ribbita",
+        "ticker": "TIBBIR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "IcecreamToken",
+        "ticker": "ICECREAM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "JuliaOS",
+        "ticker": "JOS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-18"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "CharPunk.Com",
+        "ticker": "C",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-07-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "PokeCoin",
         "ticker": "POKE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
