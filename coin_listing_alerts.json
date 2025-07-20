@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "CGCoin",
+        "ticker": "CGC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Einstein",
         "ticker": "EIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -68,61 +75,5 @@
         "ticker": "C",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PokeCoin",
-        "ticker": "POKE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "YURU COIN",
-        "ticker": "YURU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ERA",
-        "ticker": "ERA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "ERA",
-        "ticker": "ERA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ERA",
-        "ticker": "ERA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "ERA",
-        "ticker": "ERA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "ERA",
-        "ticker": "ERA",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-07-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Treelion",
-        "ticker": "TRN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-17"
     }
 ]
