@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "THE Ape",
+        "ticker": "TA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CGCoin",
         "ticker": "CGC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
