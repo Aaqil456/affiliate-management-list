@@ -1,6 +1,34 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Ribbita",
+        "ticker": "TIBBIR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-21"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "IcecreamToken",
+        "ticker": "ICECREAM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-21"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "JuliaOS",
+        "ticker": "JOS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-21"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "CharPunk.Com",
+        "ticker": "C",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-07-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CGCoin",
         "ticker": "CGC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,68 +40,5 @@
         "ticker": "EIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-19"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Coinstar",
-        "ticker": "CSTAR",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CharPunk.Com",
-        "ticker": "C",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short PENGU Token",
-        "ticker": "PENGU3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long PENGU Token",
-        "ticker": "PENGU3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Summit Defi",
-        "ticker": "SUMMIT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Ribbita",
-        "ticker": "TIBBIR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "IcecreamToken",
-        "ticker": "ICECREAM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "JuliaOS",
-        "ticker": "JOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-18"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "CharPunk.Com",
-        "ticker": "C",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-07-18"
     }
 ]
