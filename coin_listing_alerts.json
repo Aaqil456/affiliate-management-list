@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Snakes On A NFT Game",
+        "ticker": "SNAKES",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Bomo",
+        "ticker": "BOMO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Ribbita",
         "ticker": "TIBBIR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
