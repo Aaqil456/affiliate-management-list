@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "ZKWASM",
+        "ticker": "ZKWASM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Ribbita",
         "ticker": "TIBBIR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
