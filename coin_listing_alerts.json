@@ -42,6 +42,34 @@
         "date_added": "2025-07-22"
     },
     {
+        "exchange": "Bitget",
+        "coin": "ZKWASM",
+        "ticker": "ZKWASM",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "ZKWASM",
+        "ticker": "ZKWASM",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Ratio Stable Coin",
+        "ticker": "USDR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "StablR Euro",
+        "ticker": "EURR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Ribbita",
         "ticker": "TIBBIR",
