@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Coinstar",
+        "ticker": "CSTAR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Ribbita",
         "ticker": "TIBBIR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,12 +82,5 @@
         "ticker": "CGC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Einstein",
-        "ticker": "EIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-19"
     }
 ]
