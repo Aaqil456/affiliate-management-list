@@ -21,6 +21,20 @@
         "date_added": "2025-07-22"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "NekoToken",
+        "ticker": "NEKO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-22"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Fair and Free",
+        "ticker": "FAIR3",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-22"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Ribbita",
         "ticker": "TIBBIR",
