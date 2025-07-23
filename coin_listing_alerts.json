@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Memecoin",
+        "ticker": "MEMECOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Coinstar",
         "ticker": "CSTAR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -145,12 +152,5 @@
         "ticker": "CSKY",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CGCoin",
-        "ticker": "CGC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-20"
     }
 ]
