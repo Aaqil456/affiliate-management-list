@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Pulse",
+        "ticker": "PULSE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Coinstar",
         "ticker": "CSTAR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
