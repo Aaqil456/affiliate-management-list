@@ -57,6 +57,27 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Dogecoin BSC",
+        "ticker": "DOGEBSC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Cryptonity",
+        "ticker": "XNY",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "GramGold Coin",
+        "ticker": "GGC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Coinstar",
         "ticker": "CSTAR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
