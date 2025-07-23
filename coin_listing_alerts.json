@@ -21,6 +21,27 @@
         "date_added": "2025-07-23"
     },
     {
+        "exchange": "Bitget",
+        "coin": "EGL1",
+        "ticker": "EGL1",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Clash of Apes",
+        "ticker": "COA",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-23"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Clash of Apes",
+        "ticker": "COA",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-07-23"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Coinstar",
         "ticker": "CSTAR",
