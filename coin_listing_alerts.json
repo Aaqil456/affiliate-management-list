@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Aspire",
+        "ticker": "Powered by GASP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Memecoin",
         "ticker": "MEMECOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
