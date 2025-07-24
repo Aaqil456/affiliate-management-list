@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Uranium",
+        "ticker": "XU3O8",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Memecoin",
         "ticker": "MEMECOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -152,75 +159,5 @@
         "ticker": "DANTE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Ribbita",
-        "ticker": "TIBBIR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "IcecreamToken",
-        "ticker": "ICECREAM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "JuliaOS",
-        "ticker": "JOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "CharPunk.Com",
-        "ticker": "C",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "THE Ape",
-        "ticker": "TA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "THE Ape",
-        "ticker": "TA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "THE Ape",
-        "ticker": "TA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CoreSky",
-        "ticker": "CSKY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "CoreSky",
-        "ticker": "CSKY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CoreSky",
-        "ticker": "CSKY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-21"
     }
 ]
