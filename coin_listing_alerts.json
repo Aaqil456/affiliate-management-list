@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "DashFun Coin",
+        "ticker": "DFUN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-25"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Uranium",
         "ticker": "XU3O8",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -117,82 +124,5 @@
         "ticker": "GGC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Coinstar",
-        "ticker": "CSTAR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Snakes On A NFT Game",
-        "ticker": "SNAKES",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bomo",
-        "ticker": "BOMO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "NekoToken",
-        "ticker": "NEKO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Fair and Free",
-        "ticker": "FAIR3",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ZKWASM",
-        "ticker": "ZKWASM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "ZKWASM",
-        "ticker": "ZKWASM",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ZKWASM",
-        "ticker": "ZKWASM",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Ratio Stable Coin",
-        "ticker": "USDR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "StablR Euro",
-        "ticker": "EURR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dante Finance",
-        "ticker": "DANTE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-22"
     }
 ]
