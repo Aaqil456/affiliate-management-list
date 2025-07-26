@@ -7,6 +7,13 @@
         "date_added": "2025-07-26"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Physalis.Finance",
+        "ticker": "PHY",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-26"
+    },
+    {
         "exchange": "MEXC",
         "coin": "DashFun Coin",
         "ticker": "DFUN",
