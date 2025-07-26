@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "North Coin",
+        "ticker": "NOC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DashFun Coin",
         "ticker": "DFUN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -47,82 +54,5 @@
         "ticker": "Powered by GASP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Memecoin",
-        "ticker": "MEMECOIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pulse",
-        "ticker": "PULSE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Clash of Apes",
-        "ticker": "COA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "EGL1",
-        "ticker": "EGL1",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Clash of Apes",
-        "ticker": "COA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Clash of Apes",
-        "ticker": "COA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bankroll Network",
-        "ticker": "BNKR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cryptonity",
-        "ticker": "XNY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dogecoin BSC",
-        "ticker": "DOGEBSC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Cryptonity",
-        "ticker": "XNY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GramGold Coin",
-        "ticker": "GGC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-23"
     }
 ]
