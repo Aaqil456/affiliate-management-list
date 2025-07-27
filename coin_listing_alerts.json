@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Uranus Token",
+        "ticker": "URANUS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-27"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "North Coin",
         "ticker": "NOC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -19,47 +26,5 @@
         "ticker": "DFUN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Uranium",
-        "ticker": "XU3O8",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Uranium",
-        "ticker": "XU3O8",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ElephantCoin",
-        "ticker": "ELP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Aspire",
-        "ticker": "Powered by GASP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ElephantCoin",
-        "ticker": "ELP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Aspire",
-        "ticker": "Powered by GASP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-24"
     }
 ]
