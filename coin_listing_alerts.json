@@ -56,6 +56,20 @@
         "date_added": "2025-07-29"
     },
     {
+        "exchange": "MEXC",
+        "coin": "DOWGE",
+        "ticker": "DJI6930",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-29"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "tree.finance",
+        "ticker": "TREE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Nero Token",
         "ticker": "NERO",
