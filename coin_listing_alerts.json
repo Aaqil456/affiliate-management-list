@@ -1,6 +1,13 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "rethink finance",
+        "ticker": "THINK",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-29"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Nero Token",
         "ticker": "NERO",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
@@ -26,19 +33,5 @@
         "ticker": "URANUS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "North Coin",
-        "ticker": "NOC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-26"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Physalis.Finance",
-        "ticker": "PHY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-26"
     }
 ]
