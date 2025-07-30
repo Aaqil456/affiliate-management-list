@@ -43,6 +43,41 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "Pegaxy Stone",
+        "ticker": "PGX",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Rhea Protocol",
+        "ticker": "RHEA",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "HydraDX.io",
+        "ticker": "HDX",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-30"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Rhea Protocol",
+        "ticker": "RHEA",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-07-30"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Ulatech",
+        "ticker": "ULA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-30"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "rethink finance",
         "ticker": "THINK",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
