@@ -28,6 +28,13 @@
         "date_added": "2025-07-30"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Rizespor Token",
+        "ticker": "RIZE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-30"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "rethink finance",
         "ticker": "THINK",
