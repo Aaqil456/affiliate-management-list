@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Primex Finance",
+        "ticker": "PRIMEX",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-31"
+    },
+    {
         "exchange": "MEXC",
         "coin": "LadyGuys",
         "ticker": "LUCI",
@@ -187,26 +194,5 @@
         "ticker": "TREE",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Nero Token",
-        "ticker": "NERO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-28"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Nero Token",
-        "ticker": "NERO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Goldex Token",
-        "ticker": "GLDX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-28"
     }
 ]
