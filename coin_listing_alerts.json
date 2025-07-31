@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Edwin",
+        "ticker": "EDWIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-31"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "LadyGuys",
         "ticker": "LUCI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
