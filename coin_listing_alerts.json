@@ -7,6 +7,13 @@
         "date_added": "2025-07-31"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Matr1x",
+        "ticker": "MATR1X",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-07-31"
+    },
+    {
         "exchange": "MEXC",
         "coin": "LadyGuys",
         "ticker": "LUCI",
