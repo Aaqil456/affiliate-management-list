@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Courage The Dog",
+        "ticker": "CCDOG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-07-31"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "LadyGuys",
         "ticker": "LUCI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
