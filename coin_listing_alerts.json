@@ -21,6 +21,13 @@
         "date_added": "2025-08-01"
     },
     {
+        "exchange": "MEXC",
+        "coin": "UCoin",
+        "ticker": "UCOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-01"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Primex Finance",
         "ticker": "PRIMEX",
