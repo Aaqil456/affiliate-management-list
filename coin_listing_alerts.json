@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Bankroll Network",
+        "ticker": "BNKR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-01"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Primex Finance",
         "ticker": "PRIMEX",
@@ -117,110 +124,5 @@
         "ticker": "TUNA",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "rethink finance",
-        "ticker": "THINK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SPONSEE",
-        "ticker": "SPON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Linkka",
-        "ticker": "IKA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SPONSEE",
-        "ticker": "SPON",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "SPONSEE",
-        "ticker": "SPON",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Linkka",
-        "ticker": "IKA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Linkka",
-        "ticker": "IKA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mozy DAO",
-        "ticker": "MDAO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DOWGE",
-        "ticker": "DJI6930",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "tree.finance",
-        "ticker": "TREE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Darwin",
-        "ticker": "DARWIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "tree.finance",
-        "ticker": "TREE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "tree.finance",
-        "ticker": "TREE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "tree.finance",
-        "ticker": "TREE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-29"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "tree.finance",
-        "ticker": "TREE",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-07-29"
     }
 ]
