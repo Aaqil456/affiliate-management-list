@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "ForrestFarm.org",
+        "ticker": "FRT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-02"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Bankroll Network",
         "ticker": "BNKR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -61,89 +68,5 @@
         "ticker": "EDWIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-07-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "LadyGuys",
-        "ticker": "LUCI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cosplay",
-        "ticker": "COT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Unite Finance",
-        "ticker": "UNITE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Gaia Everworld",
-        "ticker": "GAIA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rizespor Token",
-        "ticker": "RIZE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rhea Protocol",
-        "ticker": "RHEA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Pegaxy Stone",
-        "ticker": "PGX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Rhea Protocol",
-        "ticker": "RHEA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "HydraDX.io",
-        "ticker": "HDX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Rhea Protocol",
-        "ticker": "RHEA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Ulatech",
-        "ticker": "ULA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-30"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "TUNACOIN",
-        "ticker": "TUNA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-07-30"
     }
 ]
