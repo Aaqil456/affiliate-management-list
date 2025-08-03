@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Grid+",
+        "ticker": "GRID",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ForrestFarm.org",
         "ticker": "FRT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,40 +40,5 @@
         "ticker": "UCOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Primex Finance",
-        "ticker": "PRIMEX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Matr1x",
-        "ticker": "MATR1X",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-07-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Courage The Dog",
-        "ticker": "CCDOG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AdEx",
-        "ticker": "ADX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Edwin",
-        "ticker": "EDWIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-07-31"
     }
 ]
