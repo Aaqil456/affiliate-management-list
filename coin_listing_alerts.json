@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Cycling Coin",
+        "ticker": "CYC",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-04"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Grid+",
         "ticker": "GRID",
@@ -19,33 +26,5 @@
         "ticker": "FRT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bankroll Network",
-        "ticker": "BNKR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "QCoin.life",
-        "ticker": "Q",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Miasma",
-        "ticker": "MIA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "UCoin",
-        "ticker": "UCOIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-01"
     }
 ]
