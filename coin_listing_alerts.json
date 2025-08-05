@@ -36,6 +36,34 @@
     },
     {
         "exchange": "Bitget",
+        "coin": "Towns",
+        "ticker": "TOWNS",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-05"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Towns",
+        "ticker": "TOWNS",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-05"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Towns",
+        "ticker": "TOWNS",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-08-05"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Towns",
+        "ticker": "TOWNS",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-08-05"
+    },
+    {
+        "exchange": "Bitget",
         "coin": "Cycling Coin",
         "ticker": "CYC",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
