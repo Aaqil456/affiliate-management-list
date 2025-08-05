@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Zonafide",
+        "ticker": "TOG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-05"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Cycling Coin",
         "ticker": "CYC",
@@ -19,12 +26,5 @@
         "ticker": "DIVI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ForrestFarm.org",
-        "ticker": "FRT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-02"
     }
 ]
