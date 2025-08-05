@@ -28,6 +28,13 @@
         "date_added": "2025-08-05"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Komodo",
+        "ticker": "KMD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-05"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Cycling Coin",
         "ticker": "CYC",
