@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "rethink finance",
+        "ticker": "THINK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Zonafide",
         "ticker": "TOG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -68,19 +75,5 @@
         "ticker": "CYC",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-08-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Grid+",
-        "ticker": "GRID",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Divi",
-        "ticker": "DIVI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-03"
     }
 ]
