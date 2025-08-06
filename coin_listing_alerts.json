@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "NND",
+        "ticker": "NND",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Zonafide",
         "ticker": "TOG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
