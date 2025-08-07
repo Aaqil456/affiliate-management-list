@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Alluma.io",
+        "ticker": "LUMA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "rethink finance",
         "ticker": "THINK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -82,12 +89,5 @@
         "ticker": "TOWNS",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Cycling Coin",
-        "ticker": "CYC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-04"
     }
 ]
