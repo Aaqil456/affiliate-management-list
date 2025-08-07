@@ -43,6 +43,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Bachi on Base",
+        "ticker": "BACHI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "rethink finance",
         "ticker": "THINK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
