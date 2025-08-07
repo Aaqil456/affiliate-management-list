@@ -35,6 +35,13 @@
         "date_added": "2025-08-07"
     },
     {
+        "exchange": "Bitget",
+        "coin": "GHO",
+        "ticker": "GHO",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-07"
+    },
+    {
         "exchange": "MEXC",
         "coin": "rethink finance",
         "ticker": "THINK",
