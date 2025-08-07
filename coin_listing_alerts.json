@@ -14,6 +14,27 @@
         "date_added": "2025-08-07"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "InCoin",
+        "ticker": "IN",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-07"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "rethink finance",
+        "ticker": "THINK",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-07"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "InCoin",
+        "ticker": "IN",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-07"
+    },
+    {
         "exchange": "MEXC",
         "coin": "rethink finance",
         "ticker": "THINK",
