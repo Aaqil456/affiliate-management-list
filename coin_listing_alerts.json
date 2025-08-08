@@ -7,6 +7,13 @@
         "date_added": "2025-08-08"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Kinto",
+        "ticker": "K",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Alluma.io",
         "ticker": "LUMA",
