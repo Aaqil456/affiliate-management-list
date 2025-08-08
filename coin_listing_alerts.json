@@ -29,6 +29,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "BuckyBadger",
+        "ticker": "BUCKY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-08"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Unstable Coin",
+        "ticker": "USDUC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Alluma.io",
         "ticker": "LUMA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
