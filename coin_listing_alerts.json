@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Kinto",
+        "ticker": "K",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-08-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Alluma.io",
         "ticker": "LUMA",
@@ -68,68 +75,5 @@
         "ticker": "TDS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zonafide",
-        "ticker": "TOG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mammoth Project",
-        "ticker": "MAMO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Supcoin",
-        "ticker": "SUP",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Towns",
-        "ticker": "TOWNS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Komodo",
-        "ticker": "KMD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Towns",
-        "ticker": "TOWNS",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Towns",
-        "ticker": "TOWNS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Towns",
-        "ticker": "TOWNS",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-08-05"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Towns",
-        "ticker": "TOWNS",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-08-05"
     }
 ]
