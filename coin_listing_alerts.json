@@ -5,5 +5,12 @@
         "ticker": "BOSS",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-08-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "SPARK",
+        "ticker": "SPARK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-11"
     }
 ]
