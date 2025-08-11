@@ -26,5 +26,12 @@
         "ticker": "SLAY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-11"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Pepe Slayer",
+        "ticker": "SLAY",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-11"
     }
 ]
