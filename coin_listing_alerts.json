@@ -28,6 +28,13 @@
         "date_added": "2025-08-12"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Baby Snek",
+        "ticker": "BBSNEK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-12"
+    },
+    {
         "exchange": "Bitget",
         "coin": "BitBoss",
         "ticker": "BOSS",
