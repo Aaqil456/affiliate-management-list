@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Uranus Token",
+        "ticker": "URANUS",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-13"
+    },
+    {
         "exchange": "MEXC",
         "coin": "CLIPPY The OG AI",
         "ticker": "CLIPPY",
