@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "BlueCoin",
+        "ticker": "BLU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-13"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CLIPPY The OG AI",
         "ticker": "CLIPPY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
