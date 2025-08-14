@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Verify",
+        "ticker": "CRED",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-14"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Uranus Token",
         "ticker": "URANUS",
@@ -61,40 +68,5 @@
         "ticker": "TRWA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BitBoss",
-        "ticker": "BOSS",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SPARK",
-        "ticker": "SPARK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Degenerated Finance Token",
-        "ticker": "DEGENFI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pepe Slayer",
-        "ticker": "SLAY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Pepe Slayer",
-        "ticker": "SLAY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-11"
     }
 ]
