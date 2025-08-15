@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "PublicAI",
+        "ticker": "PUBLIC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-15"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Lemmy The Bat",
+        "ticker": "LBAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Verify",
         "ticker": "CRED",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
