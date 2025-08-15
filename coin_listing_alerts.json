@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Hakuna Share",
+        "ticker": "MTT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Verify",
         "ticker": "CRED",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,54 +61,5 @@
         "ticker": "BLU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CLIPPY The OG AI",
-        "ticker": "CLIPPY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Titcoin",
-        "ticker": "TIT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Wanaka Wai Token",
-        "ticker": "WAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Wanaka Wai Token",
-        "ticker": "WAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Baby Snek",
-        "ticker": "BBSNEK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CHIPS",
-        "ticker": "CHIPS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Tharwa",
-        "ticker": "TRWA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-12"
     }
 ]
