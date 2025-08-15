@@ -21,6 +21,20 @@
         "date_added": "2025-08-15"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "PublicAI",
+        "ticker": "PUBLIC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-15"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "PublicAI",
+        "ticker": "PUBLIC",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-15"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Verify",
         "ticker": "CRED",
