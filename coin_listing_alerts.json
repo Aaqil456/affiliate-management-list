@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Milk",
+        "ticker": "MLK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Hakuna Share",
         "ticker": "MTT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -89,19 +96,5 @@
         "ticker": "BSTR",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Uranus Token",
-        "ticker": "URANUS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BlueCoin",
-        "ticker": "BLU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-13"
     }
 ]
