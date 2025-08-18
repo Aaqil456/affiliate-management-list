@@ -1,100 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Meme Kombat",
+        "ticker": "MK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Milk",
         "ticker": "MLK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Hakuna Share",
-        "ticker": "MTT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PublicAI",
-        "ticker": "PUBLIC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lemmy The Bat",
-        "ticker": "LBAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PublicAI",
-        "ticker": "PUBLIC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "PublicAI",
-        "ticker": "PUBLIC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Animecoin",
-        "ticker": "ANI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AIO",
-        "ticker": "AIO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Verify",
-        "ticker": "CRED",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OVERLORD GAME",
-        "ticker": "OVL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BigStrategy Inc",
-        "ticker": "BSTR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "OVERLORD GAME",
-        "ticker": "OVL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AiBot Token",
-        "ticker": "AIBOT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BigStrategy Inc",
-        "ticker": "BSTR",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-14"
     }
 ]
