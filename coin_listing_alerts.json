@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Wiki Cat",
+        "ticker": "WKC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Meme Kombat",
         "ticker": "MK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
