@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "ALKIMI",
+        "ticker": "ALKIMI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-20"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Lightning",
         "ticker": "LIGHT",
