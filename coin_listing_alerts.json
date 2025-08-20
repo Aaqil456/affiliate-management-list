@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "FARTLESS COIN",
+        "ticker": "FARTLESS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Lightning",
         "ticker": "LIGHT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
