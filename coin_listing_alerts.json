@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "YEEZY",
+        "ticker": "YZY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-21"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "ALKIMI",
         "ticker": "ALKIMI",
@@ -40,33 +47,5 @@
         "ticker": "ALKIMI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Meme Kombat",
-        "ticker": "MK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Datamine",
-        "ticker": "DAM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OPENPAD TOKEN",
-        "ticker": "OPAD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-18"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Plume",
-        "ticker": "PLUME",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-08-18"
     }
 ]
