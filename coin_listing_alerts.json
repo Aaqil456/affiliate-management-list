@@ -21,6 +21,13 @@
         "date_added": "2025-08-21"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Mindfak By Matt Furie",
+        "ticker": "MINDFAK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-21"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "ALKIMI",
         "ticker": "ALKIMI",
