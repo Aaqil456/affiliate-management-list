@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "XPIN Token",
+        "ticker": "XPIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "YEEZY",
         "ticker": "YZY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -82,26 +89,5 @@
         "ticker": "FARTLESS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lightning",
-        "ticker": "LIGHT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Wiki Cat",
-        "ticker": "WKC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ALKIMI",
-        "ticker": "ALKIMI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-19"
     }
 ]
