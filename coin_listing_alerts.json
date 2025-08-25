@@ -12,5 +12,12 @@
         "ticker": "TAKE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-08-25"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "MilitaryPay",
+        "ticker": "MTP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-25"
     }
 ]
