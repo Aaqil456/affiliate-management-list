@@ -21,6 +21,13 @@
         "date_added": "2025-08-26"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Centrifuge",
+        "ticker": "CFG",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-08-26"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "CUDIS",
         "ticker": "CUDIS",
