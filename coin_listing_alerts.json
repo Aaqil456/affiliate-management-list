@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Camp Network",
+        "ticker": "CAMP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-27"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Town Star",
         "ticker": "TOWN",
