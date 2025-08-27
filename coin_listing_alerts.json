@@ -8,6 +8,34 @@
     },
     {
         "exchange": "Bitget",
+        "coin": "Camp Network",
+        "ticker": "CAMP",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-27"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Camp Network",
+        "ticker": "CAMP",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-08-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Camp Network",
+        "ticker": "CAMP",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-27"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "PEPE CASH",
+        "ticker": "PECH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-27"
+    },
+    {
+        "exchange": "Bitget",
         "coin": "Town Star",
         "ticker": "TOWN",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
