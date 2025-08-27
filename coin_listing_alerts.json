@@ -42,6 +42,20 @@
         "date_added": "2025-08-27"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Bitrue Coin",
+        "ticker": "BTR",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-27"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Bitrue Coin",
+        "ticker": "BTR",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-27"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Town Star",
         "ticker": "TOWN",
