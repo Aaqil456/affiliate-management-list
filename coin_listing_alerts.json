@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Aion",
+        "ticker": "AION",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Camp Network",
         "ticker": "CAMP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
