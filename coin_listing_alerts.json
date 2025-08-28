@@ -21,6 +21,27 @@
         "date_added": "2025-08-28"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Live Stars Token",
+        "ticker": "LIVE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-28"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Live Stars Token",
+        "ticker": "LIVE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-08-28"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "KPOP Fan Token",
+        "ticker": "KPOP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-28"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Camp Network",
         "ticker": "CAMP",
