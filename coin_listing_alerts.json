@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Gemini Dollar",
+        "ticker": "GUSD",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-28"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Camp Network",
         "ticker": "CAMP",
@@ -96,26 +103,5 @@
         "ticker": "CFG",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-08-26"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CUDIS",
-        "ticker": "CUDIS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TAKEOUT.finance",
-        "ticker": "TAKE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MilitaryPay",
-        "ticker": "MTP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-25"
     }
 ]
