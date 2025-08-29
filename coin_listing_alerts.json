@@ -36,6 +36,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "CeluvPlay",
+        "ticker": "CELB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-08-29"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "Gemini Dollar",
         "ticker": "GUSD",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
