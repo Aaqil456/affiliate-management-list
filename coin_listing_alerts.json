@@ -56,6 +56,13 @@
         "date_added": "2025-08-29"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Shping Coin",
+        "ticker": "SHPING",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Gemini Dollar",
         "ticker": "GUSD",
