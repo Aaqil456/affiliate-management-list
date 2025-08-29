@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Line Protocol",
+        "ticker": "LINE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-08-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Gemini Dollar",
         "ticker": "GUSD",
@@ -117,33 +124,5 @@
         "ticker": "DOLO",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-08-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Town Star",
-        "ticker": "TOWN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-26"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Town Star",
-        "ticker": "TOWN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dragon",
-        "ticker": "DRG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-26"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Centrifuge",
-        "ticker": "CFG",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-08-26"
     }
 ]
