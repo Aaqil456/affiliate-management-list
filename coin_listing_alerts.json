@@ -7,6 +7,13 @@
         "date_added": "2025-09-01"
     },
     {
+        "exchange": "MEXC",
+        "coin": "YAKUSHIMA",
+        "ticker": "FOREST",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-01"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "OKZOO",
         "ticker": "AIOT",
