@@ -36,6 +36,34 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "YAKUSHIMA",
+        "ticker": "FOREST",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-01"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "World Liberty Financial",
+        "ticker": "WLFI",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-01"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "World Liberty Financial",
+        "ticker": "WLFI",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-01"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "World Liberty Financial",
+        "ticker": "WLFI",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-01"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "OKZOO",
         "ticker": "AIOT",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
