@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "GPTON",
+        "ticker": "GPTON",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-01"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "OKZOO",
         "ticker": "AIOT",
@@ -12,124 +19,5 @@
         "ticker": "BLOCKST",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-08-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Line Protocol",
-        "ticker": "LINE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "XCELTOKEN PLUS",
-        "ticker": "XLAB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "XCELTOKEN PLUS",
-        "ticker": "XLAB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CeluvPlay",
-        "ticker": "CELB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MissionPawsible",
-        "ticker": "MISSION",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CeluvPlay",
-        "ticker": "CELB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "MissionPawsible",
-        "ticker": "MISSION",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "DAO IPCI",
-        "ticker": "MITO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Shping Coin",
-        "ticker": "SHPING",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "DAO IPCI",
-        "ticker": "MITO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-08-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Gemini Dollar",
-        "ticker": "GUSD",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Aion",
-        "ticker": "AION",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RaiBlocks",
-        "ticker": "XRB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Live Stars Token",
-        "ticker": "LIVE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Live Stars Token",
-        "ticker": "LIVE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KPOP Fan Token",
-        "ticker": "KPOP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DAO IPCI",
-        "ticker": "MITO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-08-28"
     }
 ]
