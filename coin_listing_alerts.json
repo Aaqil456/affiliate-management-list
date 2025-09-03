@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "CARD.STARTER",
+        "ticker": "CARDS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-03"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "QCoin.life",
         "ticker": "Q",
