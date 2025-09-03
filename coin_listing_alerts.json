@@ -35,6 +35,34 @@
         "date_added": "2025-09-03"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Portal To Bitcoin",
+        "ticker": "PTB",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-03"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Portal To Bitcoin",
+        "ticker": "PTB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-03"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Bounce Token",
+        "ticker": "BOT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-03"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "AGI ALPHA AGENT",
+        "ticker": "AGIALPHA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-03"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "QCoin.life",
         "ticker": "Q",
