@@ -21,6 +21,13 @@
         "date_added": "2025-09-03"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Portal To Bitcoin",
+        "ticker": "PTB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-03"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "QCoin.life",
         "ticker": "Q",
