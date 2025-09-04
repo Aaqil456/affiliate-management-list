@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Skycoin",
+        "ticker": "SKY",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-04"
+    },
+    {
         "exchange": "MEXC",
         "coin": "CARD.STARTER",
         "ticker": "CARDS",
@@ -124,68 +131,5 @@
         "ticker": "SOMI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-09-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GPTON",
-        "ticker": "GPTON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "YAKUSHIMA",
-        "ticker": "FOREST",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Node",
-        "ticker": "NODE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "World Liberty Financial",
-        "ticker": "WLFI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "World Liberty Financial",
-        "ticker": "WLFI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "YAKUSHIMA",
-        "ticker": "FOREST",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "World Liberty Financial",
-        "ticker": "WLFI",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "World Liberty Financial",
-        "ticker": "WLFI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-01"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "World Liberty Financial",
-        "ticker": "WLFI",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-01"
     }
 ]
