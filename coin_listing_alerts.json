@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Shard Coin",
+        "ticker": "SHARD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-04"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CARD.STARTER",
         "ticker": "CARDS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
