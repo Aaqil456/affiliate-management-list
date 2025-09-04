@@ -14,6 +14,20 @@
         "date_added": "2025-09-04"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "UCoin",
+        "ticker": "U",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-04"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "UCoin",
+        "ticker": "U",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-04"
+    },
+    {
         "exchange": "MEXC",
         "coin": "CARD.STARTER",
         "ticker": "CARDS",
