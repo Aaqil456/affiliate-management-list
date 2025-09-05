@@ -7,6 +7,13 @@
         "date_added": "2025-09-05"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Booster BSC",
+        "ticker": "BOOST",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-05"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Skycoin",
         "ticker": "SKY",
