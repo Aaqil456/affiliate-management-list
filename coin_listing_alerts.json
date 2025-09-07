@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Keeta",
+        "ticker": "KTA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "noice",
         "ticker": "NOICE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,47 +40,5 @@
         "ticker": "SHARDS",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-09-05"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Skycoin",
-        "ticker": "SKY",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Frankencoin",
-        "ticker": "ZCHF",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-04"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "UCoin",
-        "ticker": "U",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-04"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "UCoin",
-        "ticker": "U",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-04"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Nobody Sausage",
-        "ticker": "NOBODY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Shard Coin",
-        "ticker": "SHARD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-04"
     }
 ]
