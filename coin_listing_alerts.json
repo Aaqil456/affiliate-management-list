@@ -28,6 +28,20 @@
         "date_added": "2025-09-08"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Mirror",
+        "ticker": "MIRROR",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-08"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "OPEN Platform",
+        "ticker": "OPEN",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Keeta",
         "ticker": "KTA",
