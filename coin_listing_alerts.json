@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "DiscoverFeed",
+        "ticker": "DMCC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Keeta",
         "ticker": "KTA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,33 +19,5 @@
         "ticker": "NOICE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-09-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OHO",
-        "ticker": "OHO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Booster BSC",
-        "ticker": "BOOST",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SolChicks Shards",
-        "ticker": "SHARDS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-05"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "SolChicks Shards",
-        "ticker": "SHARDS",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-05"
     }
 ]
