@@ -8,6 +8,27 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Mirror",
+        "ticker": "MIRROR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-08"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Fair and Free",
+        "ticker": "FAIR3",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-08"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Succinct",
+        "ticker": "PROVE",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Keeta",
         "ticker": "KTA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
