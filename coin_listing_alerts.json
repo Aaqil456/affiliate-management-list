@@ -43,6 +43,41 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Unstable Tether",
+        "ticker": "USDUT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Cope",
+        "ticker": "COPE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Goatcoin",
+        "ticker": "GOATCOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Switchboard",
+        "ticker": "SWTCH",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Switchboard",
+        "ticker": "SWTCH",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DiscoverFeed",
         "ticker": "DMCC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
