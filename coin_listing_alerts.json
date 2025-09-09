@@ -21,6 +21,27 @@
         "date_added": "2025-09-09"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Maecenas",
+        "ticker": "ART",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Maecenas",
+        "ticker": "ART",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-09"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "USDe",
+        "ticker": "USDE",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-09"
+    },
+    {
         "exchange": "MEXC",
         "coin": "DiscoverFeed",
         "ticker": "DMCC",
