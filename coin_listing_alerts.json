@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "CoinoUSD",
+        "ticker": "XUSD",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-10"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "MYX Network",
         "ticker": "MYX",
@@ -138,12 +145,5 @@
         "ticker": "OPEN",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Keeta",
-        "ticker": "KTA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-07"
     }
 ]
