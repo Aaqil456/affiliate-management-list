@@ -21,6 +21,13 @@
         "date_added": "2025-09-10"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Froggie",
+        "ticker": "FROGGIE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-10"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "MYX Network",
         "ticker": "MYX",
