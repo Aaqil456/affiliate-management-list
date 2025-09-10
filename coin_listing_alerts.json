@@ -35,6 +35,27 @@
         "date_added": "2025-09-10"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Linea",
+        "ticker": "LINEA",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-10"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Linea",
+        "ticker": "LINEA",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-10"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Linea",
+        "ticker": "LINEA",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-10"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "MYX Network",
         "ticker": "MYX",
