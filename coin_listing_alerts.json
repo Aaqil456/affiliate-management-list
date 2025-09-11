@@ -84,6 +84,41 @@
         "date_added": "2025-09-11"
     },
     {
+        "exchange": "Binance",
+        "coin": "Pump.fun",
+        "ticker": "PUMP",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "HOLO",
+        "ticker": "HOLO",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "HOLO",
+        "ticker": "HOLO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "HOLO",
+        "ticker": "HOLO",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "HOLO",
+        "ticker": "HOLO",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-11"
+    },
+    {
         "exchange": "Bybit",
         "coin": "CoinoUSD",
         "ticker": "XUSD",
