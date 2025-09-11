@@ -1,5 +1,75 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Puush Da Button",
+        "ticker": "PUUSH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "FlokiFork",
+        "ticker": "FORK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Neet Bux",
+        "ticker": "NEET",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "ALTcoin",
+        "ticker": "ALTCOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Sunwifhat",
+        "ticker": "SWIF",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Santiment Network Token",
+        "ticker": "SAN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Lizard Token",
+        "ticker": "LIZARD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Digimon Rabbit",
+        "ticker": "DRB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Jack Russell",
+        "ticker": "RUSSELL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "SuperDapp",
+        "ticker": "SUPERDAPP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-11"
+    },
+    {
         "exchange": "Bybit",
         "coin": "CoinoUSD",
         "ticker": "XUSD",
@@ -159,47 +229,5 @@
         "ticker": "AVNT",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-09-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DiscoverFeed",
-        "ticker": "DMCC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mirror",
-        "ticker": "MIRROR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Fair and Free",
-        "ticker": "FAIR3",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Succinct",
-        "ticker": "PROVE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Mirror",
-        "ticker": "MIRROR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-08"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "OPEN Platform",
-        "ticker": "OPEN",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-08"
     }
 ]
