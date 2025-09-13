@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Anty the Anteater",
+        "ticker": "ANTY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-13"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "UniBlox",
         "ticker": "UB",
@@ -145,68 +152,5 @@
         "ticker": "PINGPONG",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-09-11"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "CoinoUSD",
-        "ticker": "XUSD",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Marinade",
-        "ticker": "MNDE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "kongdefi.finance",
-        "ticker": "KONG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Froggie",
-        "ticker": "FROGGIE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Linea",
-        "ticker": "LINEA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Linea",
-        "ticker": "LINEA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Linea",
-        "ticker": "LINEA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Linea",
-        "ticker": "LINEA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-10"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Linea",
-        "ticker": "LINEA",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-10"
     }
 ]
