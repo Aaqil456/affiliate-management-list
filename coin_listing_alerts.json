@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Dollo Coin",
+        "ticker": "DOLLO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Anty the Anteater",
         "ticker": "ANTY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
