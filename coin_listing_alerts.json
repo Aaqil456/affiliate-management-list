@@ -42,6 +42,34 @@
         "date_added": "2025-09-15"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "ZK-Chain",
+        "ticker": "ZKC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-15"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "ZK-Chain",
+        "ticker": "ZKC",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-15"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "ZK-Chain",
+        "ticker": "ZKC",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-15"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "ZK-Chain",
+        "ticker": "ZKC",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-15"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Anty the Anteater",
         "ticker": "ANTY",
