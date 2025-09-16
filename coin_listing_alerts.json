@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Valorem Foundation",
+        "ticker": "VLR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-16"
+    },
+    {
         "exchange": "Binance",
         "coin": "Avantis",
         "ticker": "AVNT",
@@ -68,19 +75,5 @@
         "ticker": "ZKC",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Anty the Anteater",
-        "ticker": "ANTY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "EXOLOVER",
-        "ticker": "EXO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-13"
     }
 ]
