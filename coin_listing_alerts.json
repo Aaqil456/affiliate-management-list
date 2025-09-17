@@ -36,6 +36,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Kind Ads",
+        "ticker": "KIND",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-17"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Skycoin",
+        "ticker": "SKY",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Valorem Foundation",
         "ticker": "VLR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
