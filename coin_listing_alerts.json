@@ -49,6 +49,13 @@
         "date_added": "2025-09-18"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Bard Protocol",
+        "ticker": "BARD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Valorem Foundation",
         "ticker": "VLR",
