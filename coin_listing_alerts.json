@@ -98,6 +98,13 @@
         "date_added": "2025-09-18"
     },
     {
+        "exchange": "Bybit",
+        "coin": "LiteBitcoin",
+        "ticker": "LBTC",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-18"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Valorem Foundation",
         "ticker": "VLR",
