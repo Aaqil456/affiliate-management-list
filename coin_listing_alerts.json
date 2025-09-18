@@ -1,5 +1,47 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Stream SZN",
+        "ticker": "STRSZN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Won Chang",
+        "ticker": "USDWON",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Runner",
+        "ticker": "RUNNER",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "HDOKI",
+        "ticker": "OKI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Polycule",
+        "ticker": "PCULE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "1",
+        "ticker": "1",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-18"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Valorem Foundation",
         "ticker": "VLR",
@@ -82,75 +124,5 @@
         "ticker": "XL1",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-09-16"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Avantis",
-        "ticker": "AVNT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cointel",
-        "ticker": "COLS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cross-Chain Bridge Token",
-        "ticker": "BRIDGE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Tharwa",
-        "ticker": "TRWA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ZK-Chain",
-        "ticker": "ZKC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dollo Coin",
-        "ticker": "DOLLO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ZK-Chain",
-        "ticker": "ZKC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "ZK-Chain",
-        "ticker": "ZKC",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "ZK-Chain",
-        "ticker": "ZKC",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "ZK-Chain",
-        "ticker": "ZKC",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-15"
     }
 ]
