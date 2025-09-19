@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "JOJO",
+        "ticker": "JOJO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Stream SZN",
         "ticker": "STRSZN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
