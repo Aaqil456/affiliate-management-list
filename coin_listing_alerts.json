@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Neeva Defi",
+        "ticker": "NVA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ASTERION",
         "ticker": "ASTER",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
