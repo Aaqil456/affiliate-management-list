@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Humpback.finance",
+        "ticker": "HUMP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-22"
+    },
+    {
         "exchange": "Bybit",
         "coin": "ASTERION",
         "ticker": "ASTER",
@@ -19,40 +26,5 @@
         "ticker": "NVA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-09-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ASTERION",
-        "ticker": "ASTER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Hemi",
-        "ticker": "HEMI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SKPANAX",
-        "ticker": "SKX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "JOJO",
-        "ticker": "JOJO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-19"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ASTERION",
-        "ticker": "ASTER",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-19"
     }
 ]
