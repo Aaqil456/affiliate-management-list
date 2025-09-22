@@ -49,6 +49,13 @@
         "date_added": "2025-09-22"
     },
     {
+        "exchange": "MEXC",
+        "coin": "OpenSwap.One",
+        "ticker": "OPENX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-22"
+    },
+    {
         "exchange": "Bybit",
         "coin": "ASTERION",
         "ticker": "ASTER",
