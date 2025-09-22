@@ -14,6 +14,20 @@
         "date_added": "2025-09-22"
     },
     {
+        "exchange": "MEXC",
+        "coin": "0g",
+        "ticker": "0G",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Triomix Network",
+        "ticker": "TMX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-22"
+    },
+    {
         "exchange": "Bybit",
         "coin": "ASTERION",
         "ticker": "ASTER",
