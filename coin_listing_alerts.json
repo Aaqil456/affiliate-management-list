@@ -36,6 +36,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "LookCoin",
+        "ticker": "LOOK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Humpback.finance",
         "ticker": "HUMP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
