@@ -7,6 +7,13 @@
         "date_added": "2025-09-23"
     },
     {
+        "exchange": "Bybit",
+        "coin": "0g",
+        "ticker": "0G",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-09-23"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Humpback.finance",
         "ticker": "HUMP",
