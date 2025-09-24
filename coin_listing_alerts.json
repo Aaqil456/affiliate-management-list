@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "SafeGAIN",
+        "ticker": "GAIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ROVR Network",
         "ticker": "ROVR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
