@@ -56,6 +56,34 @@
         "date_added": "2025-09-25"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Pandu Pandas",
+        "ticker": "PANDU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-25"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Stray Dog",
+        "ticker": "STRAYDOG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-25"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Fair and Free",
+        "ticker": "FAIR3",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-25"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "QToken",
+        "ticker": "QTO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-25"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Bless",
         "ticker": "BLESS",
