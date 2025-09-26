@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Hanacoin",
+        "ticker": "HANA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-26"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "CodeMong Ai",
         "ticker": "COAI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -110,47 +117,5 @@
         "ticker": "GAIN",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-09-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ROVR Network",
-        "ticker": "ROVR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-23"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "0g",
-        "ticker": "0G",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Numitor",
-        "ticker": "NUMI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ResearchCoin",
-        "ticker": "RSC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-23"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Hemi",
-        "ticker": "HEMI",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "LookCoin",
-        "ticker": "LOOK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-23"
     }
 ]
