@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "Lightning",
+        "ticker": "LIGHT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Lightning",
+        "ticker": "LIGHT",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-27"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Hanacoin",
         "ticker": "HANA",
@@ -124,33 +138,5 @@
         "ticker": "QTO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bless",
-        "ticker": "BLESS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Baby Shark Universe",
-        "ticker": "BSU",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SafeGAIN",
-        "ticker": "GAIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "SafeGAIN",
-        "ticker": "GAIN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-24"
     }
 ]
