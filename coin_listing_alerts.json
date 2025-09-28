@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "AKEDO",
+        "ticker": "AKE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-28"
+    },
+    {
         "exchange": "Bitget",
         "coin": "Lightning",
         "ticker": "LIGHT",
@@ -54,89 +61,5 @@
         "ticker": "RLUSD",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-09-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CodeMong Ai",
-        "ticker": "COAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ARBITRAGE",
-        "ticker": "ARBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "CodeMong Ai",
-        "ticker": "COAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Exclusive Platform",
-        "ticker": "XPL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Exclusive Platform",
-        "ticker": "XPL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Exclusive Platform",
-        "ticker": "XPL",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Exclusive Platform",
-        "ticker": "XPL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Exclusive Platform",
-        "ticker": "XPL",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pandu Pandas",
-        "ticker": "PANDU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Stray Dog",
-        "ticker": "STRAYDOG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Fair and Free",
-        "ticker": "FAIR3",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "QToken",
-        "ticker": "QTO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-25"
     }
 ]
