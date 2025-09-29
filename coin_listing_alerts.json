@@ -49,6 +49,20 @@
         "date_added": "2025-09-29"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Forefront",
+        "ticker": "FF",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-29"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "swap.coffee",
+        "ticker": "CES",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-09-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AKEDO",
         "ticker": "AKE",
