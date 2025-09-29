@@ -84,6 +84,20 @@
         "date_added": "2025-09-29"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Forefront",
+        "ticker": "FF",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-29"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Forefront",
+        "ticker": "FF",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-09-29"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AKEDO",
         "ticker": "AKE",
