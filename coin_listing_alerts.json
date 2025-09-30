@@ -21,6 +21,13 @@
         "date_added": "2025-09-30"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Toshi",
+        "ticker": "TOSHI",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-30"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AIVeronica",
         "ticker": "AIV",
