@@ -71,6 +71,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "GHO",
+        "ticker": "GHO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-30"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "AIVeronica",
         "ticker": "AIV",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
