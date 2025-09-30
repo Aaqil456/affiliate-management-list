@@ -49,6 +49,27 @@
         "date_added": "2025-09-30"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Verify Token",
+        "ticker": "VFY",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-09-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Incrementum",
+        "ticker": "INC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-30"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Verify Token",
+        "ticker": "VFY",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-09-30"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "AIVeronica",
         "ticker": "AIV",
