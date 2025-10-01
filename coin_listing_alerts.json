@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Finom NOM Token",
+        "ticker": "NOM",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-10-01"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Finom NOM Token",
+        "ticker": "NOM",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-10-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Fortune",
         "ticker": "FORTUNE",
@@ -173,12 +187,5 @@
         "ticker": "FF",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AKEDO",
-        "ticker": "AKE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-28"
     }
 ]
