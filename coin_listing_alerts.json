@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Karmacoin",
+        "ticker": "KARMA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-01"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Fortune",
         "ticker": "FORTUNE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
