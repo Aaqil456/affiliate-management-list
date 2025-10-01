@@ -14,6 +14,20 @@
         "date_added": "2025-10-01"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "StrikeCoin",
+        "ticker": "STRIKE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-01"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "TruthGPT",
+        "ticker": "TRUTH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-01"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Fortune",
         "ticker": "FORTUNE",
