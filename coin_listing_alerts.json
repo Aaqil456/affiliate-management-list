@@ -7,6 +7,13 @@
         "date_added": "2025-10-02"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Aster Inu",
+        "ticker": "ASTERINU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-02"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Finom NOM Token",
         "ticker": "NOM",
