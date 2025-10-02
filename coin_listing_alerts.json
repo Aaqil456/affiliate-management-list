@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "TenXcoin",
+        "ticker": "TXC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-02"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Finom NOM Token",
         "ticker": "NOM",
@@ -110,103 +117,5 @@
         "ticker": "GHO",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AIVeronica",
-        "ticker": "AIV",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Elastos",
-        "ticker": "ELA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Nanolite",
-        "ticker": "NL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Anoma",
-        "ticker": "XAN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Anoma",
-        "ticker": "XAN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Anoma",
-        "ticker": "XAN",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "UC Coin",
-        "ticker": "UCN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Forefront",
-        "ticker": "FF",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "swap.coffee",
-        "ticker": "CES",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "TAKEOUT.finance",
-        "ticker": "TAKE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Forefront",
-        "ticker": "FF",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Forefront",
-        "ticker": "FF",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Forefront",
-        "ticker": "FF",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-29"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Forefront",
-        "ticker": "FF",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-29"
     }
 ]
