@@ -28,6 +28,20 @@
         "date_added": "2025-10-03"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "PUPS\u2022WORLD\u2022PEACE",
+        "ticker": "P",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-03"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "PUPS\u2022WORLD\u2022PEACE",
+        "ticker": "P",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-10-03"
+    },
+    {
         "exchange": "MEXC",
         "coin": "TenXcoin",
         "ticker": "TXC",
