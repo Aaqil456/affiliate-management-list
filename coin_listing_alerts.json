@@ -50,6 +50,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "PUP\u00a0Token",
+        "ticker": "PUP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TenXcoin",
         "ticker": "TXC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
