@@ -1,6 +1,27 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "I love puppies",
+        "ticker": "PUPPIES",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-03"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Weed",
+        "ticker": "WEED",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-03"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "VIRtual United Serum",
+        "ticker": "VIRUS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TenXcoin",
         "ticker": "TXC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,82 +75,5 @@
         "ticker": "KARMA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Fortune",
-        "ticker": "FORTUNE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AIA Token",
-        "ticker": "AIA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bnb Tiger Inu",
-        "ticker": "BNBTIGER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Toshi",
-        "ticker": "TOSHI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Incrementum",
-        "ticker": "INC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "edenDAO",
-        "ticker": "EDEN",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Verify Token",
-        "ticker": "VFY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Verify Token",
-        "ticker": "VFY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Incrementum",
-        "ticker": "INC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Verify Token",
-        "ticker": "VFY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GHO",
-        "ticker": "GHO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-09-30"
     }
 ]
