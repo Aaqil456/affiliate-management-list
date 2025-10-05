@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Cypher",
+        "ticker": "CYPR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-05"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SnowBall Token",
         "ticker": "SBM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
