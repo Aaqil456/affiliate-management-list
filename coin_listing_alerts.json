@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Binance's Palu",
+        "ticker": "PALU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-05"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SnowBall Token",
         "ticker": "SBM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -61,26 +68,5 @@
         "ticker": "PUP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TenXcoin",
-        "ticker": "TXC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Aster Inu",
-        "ticker": "ASTERINU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bitcoin Gold",
-        "ticker": "BTG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-02"
     }
 ]
