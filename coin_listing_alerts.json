@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Lynchpin Token",
+        "ticker": "LYN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Binance's Palu",
         "ticker": "PALU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
