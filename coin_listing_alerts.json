@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Sex Pistols",
+        "ticker": "SP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Binance's Palu",
         "ticker": "PALU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -19,61 +26,5 @@
         "ticker": "SBM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "I love puppies",
-        "ticker": "PUPPIES",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Weed",
-        "ticker": "WEED",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "VIRtual United Serum",
-        "ticker": "VIRUS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PUPS\u2022WORLD\u2022PEACE",
-        "ticker": "P",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PUPS\u2022WORLD\u2022PEACE",
-        "ticker": "P",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "PUPS\u2022WORLD\u2022PEACE",
-        "ticker": "P",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Morpho",
-        "ticker": "MORPHO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PUP\u00a0Token",
-        "ticker": "PUP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-03"
     }
 ]
