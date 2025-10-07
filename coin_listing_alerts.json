@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "TAIX",
+        "ticker": "TAIX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Sex Pistols",
         "ticker": "SP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,12 +61,5 @@
         "ticker": "CYPR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SnowBall Token",
-        "ticker": "SBM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-04"
     }
 ]
