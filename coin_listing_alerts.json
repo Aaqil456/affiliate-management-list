@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Slate",
+        "ticker": "SLX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TAIX",
         "ticker": "TAIX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,19 +82,5 @@
         "ticker": "MF",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Binance's Palu",
-        "ticker": "PALU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cypher",
-        "ticker": "CYPR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-05"
     }
 ]
