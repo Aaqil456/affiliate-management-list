@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Xmine",
+        "ticker": "XMN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Slate",
         "ticker": "SLX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -75,47 +82,5 @@
         "ticker": "KGEN",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sex Pistols",
-        "ticker": "SP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lynchpin Token",
-        "ticker": "LYN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Aster",
-        "ticker": "ASTER",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Yellow Pepe",
-        "ticker": "YEPE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Aster",
-        "ticker": "ASTER",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-06"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "MoonFarm",
-        "ticker": "MF",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-06"
     }
 ]
