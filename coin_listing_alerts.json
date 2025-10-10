@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Binance",
+        "coin": "Walrus",
+        "ticker": "WAL",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-10-10"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Xmine",
         "ticker": "XMN",
@@ -47,40 +54,5 @@
         "ticker": "SZN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TAIX",
-        "ticker": "TAIX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Klink Finance",
-        "ticker": "KLINK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KGEN",
-        "ticker": "KGEN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-07"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "KGEN",
-        "ticker": "KGEN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "KGEN",
-        "ticker": "KGEN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-07"
     }
 ]
