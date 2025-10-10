@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "PHI Token",
+        "ticker": "PHI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-10"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Xmine",
         "ticker": "XMN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
