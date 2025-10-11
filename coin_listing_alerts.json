@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "MON Protocol",
+        "ticker": "MONPRO",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-11"
+    },
+    {
         "exchange": "Binance",
         "coin": "Walrus",
         "ticker": "WAL",
@@ -26,47 +33,5 @@
         "ticker": "XMN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Slate",
-        "ticker": "SLX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PIPE",
-        "ticker": "PIPE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AITV",
-        "ticker": "AITV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "PIPE",
-        "ticker": "PIPE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BlackDiamond SC",
-        "ticker": "BSC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "szn",
-        "ticker": "SZN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-08"
     }
 ]
