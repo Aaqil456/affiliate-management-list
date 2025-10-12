@@ -8,6 +8,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "Corl",
+        "ticker": "CORL",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-12"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "MON Protocol",
         "ticker": "MONPRO",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
