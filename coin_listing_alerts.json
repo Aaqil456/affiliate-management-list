@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "BitFinTech",
+        "ticker": "BFI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-13"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Corl",
         "ticker": "CORL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -26,26 +33,5 @@
         "ticker": "SCX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-11"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Walrus",
-        "ticker": "WAL",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PHI Token",
-        "ticker": "PHI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Xcellar",
-        "ticker": "XCL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-10"
     }
 ]
