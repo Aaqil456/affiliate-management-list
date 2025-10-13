@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "AlphaExchangeAI",
+        "ticker": "AEA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-13"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Corl",
         "ticker": "CORL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
