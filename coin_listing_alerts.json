@@ -98,6 +98,27 @@
         "date_added": "2025-10-14"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Faceless Knight",
+        "ticker": "FLK",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-10-14"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Labrys",
+        "ticker": "LAB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-14"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Faceless Knight",
+        "ticker": "FLK",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-14"
+    },
+    {
         "exchange": "MEXC",
         "coin": "BitFinTech",
         "ticker": "BFI",
