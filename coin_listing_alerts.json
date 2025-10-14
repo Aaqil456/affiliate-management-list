@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Aark Digital",
+        "ticker": "AARK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BitFinTech",
         "ticker": "BFI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
