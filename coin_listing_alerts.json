@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Yield Basis",
+        "ticker": "YB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Railgun",
         "ticker": "RAIL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
