@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Anome",
+        "ticker": "ANOME",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-17"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Recall",
         "ticker": "RECALL",
@@ -96,124 +103,5 @@
         "ticker": "WBAI",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Railgun",
-        "ticker": "RAIL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TENGE TENGE",
-        "ticker": "TENGE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BNBHOLDER",
-        "ticker": "BNBHOLDER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Nailong",
-        "ticker": "NAILONG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Aark Digital",
-        "ticker": "AARK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "EnsoFinance",
-        "ticker": "ENSO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "EnsoFinance",
-        "ticker": "ENSO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "EnsoFinance",
-        "ticker": "ENSO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "EnsoFinance",
-        "ticker": "ENSO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "EnsoFinance",
-        "ticker": "ENSO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GRIPPY",
-        "ticker": "GRIPPY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "COINDEPO",
-        "ticker": "COINDEPO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Faceless Knight",
-        "ticker": "FLK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Callisto Network",
-        "ticker": "CLO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Faceless Knight",
-        "ticker": "FLK",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Labrys",
-        "ticker": "LAB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Faceless Knight",
-        "ticker": "FLK",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-14"
     }
 ]
