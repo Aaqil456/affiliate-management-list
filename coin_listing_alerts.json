@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "SHIH TZU",
+        "ticker": "SHIH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Anome",
         "ticker": "ANOME",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,89 +61,5 @@
         "ticker": "GIGGLE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "JSB FOUNDATION",
-        "ticker": "JSB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GOLD BNB",
-        "ticker": "GBNB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Yield Basis",
-        "ticker": "YB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Recall",
-        "ticker": "RECALL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "WhiteBridge",
-        "ticker": "WBAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Yield Basis",
-        "ticker": "YB",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Yield Basis",
-        "ticker": "YB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Yield Basis",
-        "ticker": "YB",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Yield Basis",
-        "ticker": "YB",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Recall",
-        "ticker": "RECALL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Recall",
-        "ticker": "RECALL",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "WhiteBridge",
-        "ticker": "WBAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-15"
     }
 ]
