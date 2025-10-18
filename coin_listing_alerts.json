@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "ASTRA NOVA",
+        "ticker": "RVV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Anome",
         "ticker": "ANOME",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
