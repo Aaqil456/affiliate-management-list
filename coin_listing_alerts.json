@@ -14,6 +14,20 @@
         "date_added": "2025-10-18"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "ASTRA NOVA",
+        "ticker": "RVV",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-18"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "ASTRA NOVA",
+        "ticker": "RVV",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-10-18"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Anome",
         "ticker": "ANOME",
