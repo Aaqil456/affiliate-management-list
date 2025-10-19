@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Lucky Meow Token",
+        "ticker": "LMAO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-19"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "SHIH TZU",
         "ticker": "SHIH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -68,19 +75,5 @@
         "ticker": "ZBT",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Recall",
-        "ticker": "RECALL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-16"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Giggle Fund",
-        "ticker": "GIGGLE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-16"
     }
 ]
