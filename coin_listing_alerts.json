@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "VirtualMining Coin",
+        "ticker": "VMC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Lucky Meow Token",
         "ticker": "LMAO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,47 +40,5 @@
         "ticker": "RVV",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-10-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Anome",
-        "ticker": "ANOME",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zoobit",
-        "ticker": "ZBT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Zoobit",
-        "ticker": "ZBT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Zoobit",
-        "ticker": "ZBT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Zoobit",
-        "ticker": "ZBT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-17"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Zoobit",
-        "ticker": "ZBT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-17"
     }
 ]
