@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "MECCA",
+        "ticker": "MEA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "VirtualMining Coin",
         "ticker": "VMC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -19,33 +26,5 @@
         "ticker": "LMAO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "SHIH TZU",
-        "ticker": "SHIH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ASTRA NOVA",
-        "ticker": "RVV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ASTRA NOVA",
-        "ticker": "RVV",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-18"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "ASTRA NOVA",
-        "ticker": "RVV",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-18"
     }
 ]
