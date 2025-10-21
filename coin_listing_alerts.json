@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Bluwhale AI",
+        "ticker": "BLUAI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "VirtualMining Coin",
         "ticker": "VMC",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
