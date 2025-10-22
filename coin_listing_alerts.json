@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "TurtleSwap.org",
+        "ticker": "TURTLE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "MECCA",
         "ticker": "MEA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,12 +40,5 @@
         "ticker": "MCTP",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Lucky Meow Token",
-        "ticker": "LMAO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-19"
     }
 ]
