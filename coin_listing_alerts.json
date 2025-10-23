@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "APR Coin",
+        "ticker": "APR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "TurtleSwap.org",
         "ticker": "TURTLE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
