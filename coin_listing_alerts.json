@@ -28,6 +28,20 @@
         "date_added": "2025-10-23"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Metronome",
+        "ticker": "MET",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-10-23"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Metronome",
+        "ticker": "MET",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-10-23"
+    },
+    {
         "exchange": "MEXC",
         "coin": "TurtleSwap.org",
         "ticker": "TURTLE",
