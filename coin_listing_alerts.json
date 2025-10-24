@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "PING",
+        "ticker": "PING",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
         "exchange": "Bybit",
         "coin": "MON Protocol",
         "ticker": "MONPRO",
@@ -61,26 +68,5 @@
         "ticker": "TURTLE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MECCA",
-        "ticker": "MEA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bluwhale AI",
-        "ticker": "BLUAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bluwhale AI",
-        "ticker": "BLUAI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-21"
     }
 ]
