@@ -21,6 +21,13 @@
         "date_added": "2025-10-24"
     },
     {
+        "exchange": "MEXC",
+        "coin": "AWARE",
+        "ticker": "AT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
         "exchange": "Bybit",
         "coin": "MON Protocol",
         "ticker": "MONPRO",
