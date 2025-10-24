@@ -56,6 +56,34 @@
         "date_added": "2025-10-24"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Kurumi Inu",
+        "ticker": "KURUMI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Money Sharks",
+        "ticker": "SHARKS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Santa",
+        "ticker": "SANTA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Meridian Network",
+        "ticker": "MRDN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-24"
+    },
+    {
         "exchange": "Bybit",
         "coin": "MON Protocol",
         "ticker": "MONPRO",
