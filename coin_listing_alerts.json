@@ -28,6 +28,20 @@
         "date_added": "2025-10-24"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "OFIN Token",
+        "ticker": "ON",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-24"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Velvet",
+        "ticker": "VELVET",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-10-24"
+    },
+    {
         "exchange": "Bybit",
         "coin": "MON Protocol",
         "ticker": "MONPRO",
