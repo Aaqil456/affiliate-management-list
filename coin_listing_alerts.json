@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Binance",
+        "coin": "SynFutures",
+        "ticker": "F",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-10-25"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Giggle Fund",
+        "ticker": "GIGGLE",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-10-25"
+    },
+    {
         "exchange": "MEXC",
         "coin": "PING",
         "ticker": "PING",
@@ -124,26 +138,5 @@
         "ticker": "MET",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "TurtleSwap.org",
-        "ticker": "TURTLE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-22"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "TurtleSwap.org",
-        "ticker": "TURTLE",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-10-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "TurtleSwap.org",
-        "ticker": "TURTLE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-22"
     }
 ]
