@@ -7,6 +7,20 @@
         "date_added": "2025-10-27"
     },
     {
+        "exchange": "MEXC",
+        "coin": "42-coin",
+        "ticker": "42",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-27"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Limitless",
+        "ticker": "LMTS",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-27"
+    },
+    {
         "exchange": "Binance",
         "coin": "SynFutures",
         "ticker": "F",
