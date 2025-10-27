@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Syndicate",
+        "ticker": "SYND",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-10-27"
+    },
+    {
         "exchange": "Binance",
         "coin": "SynFutures",
         "ticker": "F",
@@ -19,131 +26,5 @@
         "ticker": "CDL",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PING",
-        "ticker": "PING",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Baby 4",
-        "ticker": "BABY4",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OFIN Token",
-        "ticker": "ON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AWARE",
-        "ticker": "AT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "OFIN Token",
-        "ticker": "ON",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Velvet",
-        "ticker": "VELVET",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "AWARE",
-        "ticker": "AT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PepperSwap.org",
-        "ticker": "PEPPER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Kurumi Inu",
-        "ticker": "KURUMI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Money Sharks",
-        "ticker": "SHARKS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Santa",
-        "ticker": "SANTA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Meridian Network",
-        "ticker": "MRDN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-24"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "MON Protocol",
-        "ticker": "MONPRO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "APR Coin",
-        "ticker": "APR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Titan Coin",
-        "ticker": "TTN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "APR Coin",
-        "ticker": "APR",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Metronome",
-        "ticker": "MET",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-23"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Metronome",
-        "ticker": "MET",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-23"
     }
 ]
