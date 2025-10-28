@@ -21,6 +21,13 @@
         "date_added": "2025-10-28"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Piggycoin",
+        "ticker": "PIGGY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-28"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Syndicate",
         "ticker": "SYND",
