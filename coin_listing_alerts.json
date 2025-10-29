@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Chronicle",
+        "ticker": "XNL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-29"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "ZARA AI",
         "ticker": "ZARA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
