@@ -35,6 +35,13 @@
         "date_added": "2025-10-29"
     },
     {
+        "exchange": "Bybit",
+        "coin": "EatToken",
+        "ticker": "EAT",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-10-29"
+    },
+    {
         "exchange": "MEXC",
         "coin": "ZARA AI",
         "ticker": "ZARA",
