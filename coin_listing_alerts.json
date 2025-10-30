@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "BOUNTYKINDS",
+        "ticker": "YU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-10-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Chronicle",
         "ticker": "XNL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
