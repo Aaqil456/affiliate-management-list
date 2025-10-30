@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Believe",
+        "ticker": "BELIEVE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-10-30"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Chronicle",
         "ticker": "XNL",
@@ -75,54 +82,5 @@
         "ticker": "PIGGY",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-10-28"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Syndicate",
-        "ticker": "SYND",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "42-coin",
-        "ticker": "42",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Limitless",
-        "ticker": "LMTS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Sandbox's COMMON Catalysts",
-        "ticker": "COMMON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Sandbox's COMMON Catalysts",
-        "ticker": "COMMON",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Sandbox's COMMON Catalysts",
-        "ticker": "COMMON",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Sandbox's COMMON Catalysts",
-        "ticker": "COMMON",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-27"
     }
 ]
