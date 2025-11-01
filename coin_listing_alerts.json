@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Whisper",
+        "ticker": "WISP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-01"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Believe",
         "ticker": "BELIEVE",
@@ -26,82 +33,5 @@
         "ticker": "BCN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-10-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Chronicle",
-        "ticker": "XNL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BOScoin",
-        "ticker": "BOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "EatToken",
-        "ticker": "EAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BOScoin",
-        "ticker": "BOS",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BOScoin",
-        "ticker": "BOS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "EatToken",
-        "ticker": "EAT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-10-29"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ZARA AI",
-        "ticker": "ZARA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rome",
-        "ticker": "ROME",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RICH Token",
-        "ticker": "RICH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Piggycoin",
-        "ticker": "PIGGY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-28"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Piggycoin",
-        "ticker": "PIGGY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-28"
     }
 ]
