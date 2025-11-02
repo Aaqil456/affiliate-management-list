@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Nxt",
+        "ticker": "NXT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-02"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Whisper",
         "ticker": "WISP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -26,33 +33,5 @@
         "ticker": "BAY",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-11-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Believe",
-        "ticker": "BELIEVE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-10-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Revive",
-        "ticker": "REVIVE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BOUNTYKINDS",
-        "ticker": "YU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bytecoin",
-        "ticker": "BCN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-10-30"
     }
 ]
