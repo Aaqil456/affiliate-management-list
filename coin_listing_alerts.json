@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "\u4fee\u4ed9",
+        "ticker": "\u4fee\u4ed9",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-03"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Nxt",
         "ticker": "NXT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
