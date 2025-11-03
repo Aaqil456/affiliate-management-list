@@ -7,6 +7,34 @@
         "date_added": "2025-11-03"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Kite Sync",
+        "ticker": "KITE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-03"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Kite Sync",
+        "ticker": "KITE",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-11-03"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Kite Sync",
+        "ticker": "KITE",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-11-03"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Kite Sync",
+        "ticker": "KITE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-03"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Nxt",
         "ticker": "NXT",
