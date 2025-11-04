@@ -43,6 +43,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "HAJIMI",
+        "ticker": "\u54c8\u57fa\u7c73",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-04"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "\u4fee\u4ed9",
         "ticker": "\u4fee\u4ed9",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
