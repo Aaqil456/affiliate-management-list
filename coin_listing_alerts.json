@@ -15,6 +15,27 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Solara",
+        "ticker": "\u7d22\u62c9\u62c9",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-04"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "\u5ba2\u670d\u5c0f\u4f55",
+        "ticker": "\u5ba2\u670d\u5c0f\u4f55",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-04"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "\u5e01\u5b89\u4eba\u751f",
+        "ticker": "\u5e01\u5b89\u4eba\u751f",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-04"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "\u4fee\u4ed9",
         "ticker": "\u4fee\u4ed9",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
