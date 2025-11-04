@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Chrema Coin",
+        "ticker": "CRMC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-04"
+    },
+    {
         "exchange": "MEXC",
         "coin": "\u4fee\u4ed9",
         "ticker": "\u4fee\u4ed9",
@@ -40,33 +47,5 @@
         "ticker": "NXT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Whisper",
-        "ticker": "WISP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-01"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BEAT",
-        "ticker": "BEAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-01"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BEAT",
-        "ticker": "BEAT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-01"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "BitBay",
-        "ticker": "BAY",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-01"
     }
 ]
