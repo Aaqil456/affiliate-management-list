@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Binance GeoDB Coin",
+        "ticker": "BGEO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-05"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Chrema Coin",
         "ticker": "CRMC",
@@ -117,12 +124,5 @@
         "ticker": "KITE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Nxt",
-        "ticker": "NXT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-02"
     }
 ]
