@@ -21,6 +21,20 @@
         "date_added": "2025-11-05"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Barkis Network",
+        "ticker": "BKS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-05"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "TrustPlus",
+        "ticker": "TRUST",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-11-05"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Chrema Coin",
         "ticker": "CRMC",
