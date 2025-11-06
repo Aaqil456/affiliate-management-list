@@ -35,6 +35,20 @@
         "date_added": "2025-11-06"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "AImerica",
+        "ticker": "UAI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-06"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "AImerica",
+        "ticker": "UAI",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-11-06"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Binance GeoDB Coin",
         "ticker": "BGEO",
