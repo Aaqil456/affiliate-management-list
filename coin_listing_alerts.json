@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Chutes",
+        "ticker": "SN64",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Binance GeoDB Coin",
         "ticker": "BGEO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
