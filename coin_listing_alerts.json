@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Lit Protocol",
+        "ticker": "LITKEY",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-11-06"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Binance GeoDB Coin",
         "ticker": "BGEO",
@@ -166,40 +173,5 @@
         "ticker": "MMT",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u4fee\u4ed9",
-        "ticker": "\u4fee\u4ed9",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Kite Sync",
-        "ticker": "KITE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-03"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Kite Sync",
-        "ticker": "KITE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-03"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Kite Sync",
-        "ticker": "KITE",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-11-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Kite Sync",
-        "ticker": "KITE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-03"
     }
 ]
