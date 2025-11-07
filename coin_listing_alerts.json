@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "elizaOS",
+        "ticker": "ELIZAOS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-07"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Lit Protocol",
         "ticker": "LITKEY",
@@ -131,89 +138,5 @@
         "ticker": "\u5976\u9f99",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Chrema Coin",
-        "ticker": "CRMC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CryptoTycoon",
-        "ticker": "TYCOON",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Solara",
-        "ticker": "\u7d22\u62c9\u62c9",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u5ba2\u670d\u5c0f\u4f55",
-        "ticker": "\u5ba2\u670d\u5c0f\u4f55",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u5e01\u5b89\u4eba\u751f",
-        "ticker": "\u5e01\u5b89\u4eba\u751f",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Believe",
-        "ticker": "BELIEVE",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "HAJIMI",
-        "ticker": "\u54c8\u57fa\u7c73",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Plair",
-        "ticker": "PLAI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "MarkMeta",
-        "ticker": "MMT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "MarkMeta",
-        "ticker": "MMT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Plair",
-        "ticker": "PLAI",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-04"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "MarkMeta",
-        "ticker": "MMT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-11-04"
     }
 ]
