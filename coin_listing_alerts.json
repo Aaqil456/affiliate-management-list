@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Splendor",
+        "ticker": "SPLD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "elizaOS",
         "ticker": "ELIZAOS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -68,89 +75,5 @@
         "ticker": "UAI",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2025-11-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Binance GeoDB Coin",
-        "ticker": "BGEO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u9f99Long",
-        "ticker": "\u9f99LONG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "TrustPlus",
-        "ticker": "TRUST",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Barkis Network",
-        "ticker": "BKS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "TrustPlus",
-        "ticker": "TRUST",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u8ca1\u52d9\u81ea\u7531",
-        "ticker": "\u8ca1\u52d9\u81ea\u7531",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "THORWallet",
-        "ticker": "TITN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "VPay",
-        "ticker": "VPAY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KITKAT Finance",
-        "ticker": "KITKAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BitBay",
-        "ticker": "BAY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CryptoTycoon",
-        "ticker": "TYCOON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u5976\u9f99",
-        "ticker": "\u5976\u9f99",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-05"
     }
 ]
