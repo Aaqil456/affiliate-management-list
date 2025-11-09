@@ -22,6 +22,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Timicoin",
+        "ticker": "TIMI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-09"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Lucidum Coin",
+        "ticker": "LUCIC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Splendor",
         "ticker": "SPLD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
