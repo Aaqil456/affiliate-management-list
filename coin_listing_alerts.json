@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Japan Content Token",
+        "ticker": "JCT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-10"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Long",
         "ticker": "LONG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
