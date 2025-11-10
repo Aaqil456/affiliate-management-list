@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "CloudChat",
+        "ticker": "CC",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-11-10"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "CloudChat",
+        "ticker": "CC",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-10"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Long",
         "ticker": "LONG",
@@ -40,26 +54,5 @@
         "ticker": "SPLD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "elizaOS",
-        "ticker": "ELIZAOS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "The Sun Rises",
-        "ticker": "SUNRISE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Celium",
-        "ticker": "SN51",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-07"
     }
 ]
