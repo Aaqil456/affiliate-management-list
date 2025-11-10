@@ -21,6 +21,13 @@
         "date_added": "2025-11-10"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Japan Content Token",
+        "ticker": "JCT",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2025-11-10"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Long",
         "ticker": "LONG",
