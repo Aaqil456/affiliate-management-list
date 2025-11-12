@@ -49,6 +49,13 @@
         "date_added": "2025-11-12"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Memeseco",
+        "ticker": "MECO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-12"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "EQTY",
         "ticker": "EQTY",
