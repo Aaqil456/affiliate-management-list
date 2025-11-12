@@ -57,6 +57,13 @@
     },
     {
         "exchange": "Gate.io",
+        "coin": "BMB",
+        "ticker": "BMB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-12"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "EQTY",
         "ticker": "EQTY",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
