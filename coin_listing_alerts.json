@@ -35,6 +35,20 @@
         "date_added": "2025-11-12"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Feyorra",
+        "ticker": "FEY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-12"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Monerochan",
+        "ticker": "MONEROCHAN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-12"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "EQTY",
         "ticker": "EQTY",
