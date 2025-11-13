@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Paycheck Defi",
+        "ticker": "CHECK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-13"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "elizaOS",
         "ticker": "ELIZAOS",
@@ -68,33 +75,5 @@
         "ticker": "EQTY",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-11-11"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "CloudChat",
-        "ticker": "CC",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-11-10"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "CloudChat",
-        "ticker": "CC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-10"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Japan Content Token",
-        "ticker": "JCT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-10"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Japan Content Token",
-        "ticker": "JCT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2025-11-10"
     }
 ]
