@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "MetYa",
+        "ticker": "MY",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Paycheck Defi",
         "ticker": "CHECK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -131,12 +138,5 @@
         "ticker": "BMB",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "EQTY",
-        "ticker": "EQTY",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-11"
     }
 ]
