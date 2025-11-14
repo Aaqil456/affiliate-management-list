@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Play Solana",
+        "ticker": "PLAYSOLANA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Paycheck Defi",
         "ticker": "CHECK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
