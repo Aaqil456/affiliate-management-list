@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "BitXchange",
+        "ticker": "BXE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "MetYa",
         "ticker": "MY",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
