@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "TuringNetworkToken",
+        "ticker": "TNK",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-11-15"
+    },
+    {
         "exchange": "MEXC",
         "coin": "MetYa",
         "ticker": "MY",
@@ -96,68 +103,5 @@
         "ticker": "BANK",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2025-11-13"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "elizaOS",
-        "ticker": "ELIZAOS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "elizaOS",
-        "ticker": "ELIZAOS",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Arexium",
-        "ticker": "ARX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Long FET Token",
-        "ticker": "FET3L",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "3X Short FET Token",
-        "ticker": "FET3S",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Feyorra",
-        "ticker": "FEY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Monerochan",
-        "ticker": "MONEROCHAN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Memeseco",
-        "ticker": "MECO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "BMB",
-        "ticker": "BMB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-12"
     }
 ]
