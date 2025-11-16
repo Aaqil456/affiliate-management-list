@@ -7,6 +7,34 @@
         "date_added": "2025-11-16"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Planck",
+        "ticker": "PLANCK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Archivas",
+        "ticker": "RCHV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "t.me/surgefi",
+        "ticker": "SURGE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Prophex",
+        "ticker": "PPX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-16"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "TuringNetworkToken",
         "ticker": "TNK",
