@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Velas",
+        "ticker": "VLX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Rewarder",
         "ticker": "RWD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -47,33 +54,5 @@
         "ticker": "BXE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MetYa",
-        "ticker": "MY",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BigGame",
-        "ticker": "BG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Play Solana",
-        "ticker": "PLAYSOLANA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Play Solana",
-        "ticker": "PLAYSOLANA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-14"
     }
 ]
