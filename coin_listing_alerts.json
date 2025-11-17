@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Optio",
+        "ticker": "OPT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Rewarder",
         "ticker": "RWD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
