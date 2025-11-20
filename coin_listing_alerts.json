@@ -1,58 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "HYBUX",
+        "ticker": "HYBUX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "HAiO",
         "ticker": "HAIO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Velas",
-        "ticker": "VLX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Optio",
-        "ticker": "OPT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rewarder",
-        "ticker": "RWD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Planck",
-        "ticker": "PLANCK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Archivas",
-        "ticker": "RCHV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "t.me/surgefi",
-        "ticker": "SURGE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Prophex",
-        "ticker": "PPX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-16"
     }
 ]
