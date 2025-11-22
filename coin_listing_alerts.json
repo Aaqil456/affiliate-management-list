@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "PLAAK",
+        "ticker": "PLK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "MonsterBit",
         "ticker": "MB",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
