@@ -8,6 +8,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Rizzmas",
+        "ticker": "RIZZMAS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-22"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Italian Brainrot",
+        "ticker": "ITALIANROT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "MonsterBit",
         "ticker": "MB",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
