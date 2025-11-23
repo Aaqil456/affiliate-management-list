@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "KO RUNE - Rune.Game",
+        "ticker": "KO",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-23"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "PLAAK",
         "ticker": "PLK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,19 +47,5 @@
         "ticker": "ARTX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "HYBUX",
-        "ticker": "HYBUX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Build On BNB",
-        "ticker": "BOB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-20"
     }
 ]
