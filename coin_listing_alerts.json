@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Super Bitcoin",
+        "ticker": "SBTC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "KO RUNE - Rune.Game",
         "ticker": "KO",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
