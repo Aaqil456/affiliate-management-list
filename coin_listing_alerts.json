@@ -26,5 +26,12 @@
         "ticker": "TEN",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-11-27"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "AWARE",
+        "ticker": "AT",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-11-27"
     }
 ]
