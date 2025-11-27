@@ -5,5 +5,12 @@
         "ticker": "GUA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-27"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Indonesian Rupiah",
+        "ticker": "IDR",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2025-11-27"
     }
 ]
