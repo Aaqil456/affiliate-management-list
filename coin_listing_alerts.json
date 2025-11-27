@@ -1,44 +1,9 @@
 [
     {
-        "exchange": "Gate.io",
-        "coin": "StarSharks",
-        "ticker": "SSS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-24"
-    },
-    {
         "exchange": "MEXC",
-        "coin": "Super Bitcoin",
-        "ticker": "SBTC",
+        "coin": "GUA",
+        "ticker": "GUA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-24"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "KO RUNE - Rune.Game",
-        "ticker": "KO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-23"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PLAAK",
-        "ticker": "PLK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rizzmas",
-        "ticker": "RIZZMAS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Italian Brainrot",
-        "ticker": "ITALIANROT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-22"
+        "date_added": "2025-11-27"
     }
 ]
