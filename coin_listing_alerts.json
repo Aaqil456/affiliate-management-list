@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Bitpanda Ecosystem Token",
+        "ticker": "BEST",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-28"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "GUA",
         "ticker": "GUA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
