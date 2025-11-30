@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "MEMERUSH",
+        "ticker": "MEMERUSH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-11-30"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "GUA",
         "ticker": "GUA",
@@ -12,40 +19,5 @@
         "ticker": "BEST",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-11-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GUA",
-        "ticker": "GUA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Indonesian Rupiah",
-        "ticker": "IDR",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-11-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Tenet",
-        "ticker": "TEN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Tenet",
-        "ticker": "TEN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-27"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "AWARE",
-        "ticker": "AT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2025-11-27"
     }
 ]
