@@ -1,23 +1,23 @@
 [
     {
         "exchange": "MEXC",
-        "coin": "MEMERUSH",
-        "ticker": "MEMERUSH",
+        "coin": "Bitpanda Ecosystem Token",
+        "ticker": "BEST",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-30"
+        "date_added": "2025-12-01"
     },
     {
         "exchange": "Gate.io",
         "coin": "GUA",
         "ticker": "GUA",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-11-28"
+        "date_added": "2025-12-01"
     },
     {
         "exchange": "MEXC",
-        "coin": "Bitpanda Ecosystem Token",
-        "ticker": "BEST",
+        "coin": "MEMERUSH",
+        "ticker": "MEMERUSH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-11-28"
+        "date_added": "2025-11-30"
     }
 ]
