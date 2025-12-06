@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "AvatarCoin",
+        "ticker": "AV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "RugSeekers",
         "ticker": "SEEK",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -12,26 +19,5 @@
         "ticker": "DANKDOGE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-04"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Beansprout.Finance",
-        "ticker": "BSF",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ness",
-        "ticker": "NESS",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-03"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Tradoor",
-        "ticker": "TRADOOR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-03"
     }
 ]
