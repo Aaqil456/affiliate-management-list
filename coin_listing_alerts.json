@@ -28,6 +28,20 @@
         "date_added": "2025-12-08"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Tewkenaire Stable",
+        "ticker": "STABLE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-12-08"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Tewkenaire Stable",
+        "ticker": "STABLE",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-12-08"
+    },
+    {
         "exchange": "MEXC",
         "coin": "AvatarCoin",
         "ticker": "AV",
