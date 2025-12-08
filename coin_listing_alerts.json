@@ -1,23 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "RugSeekers",
+        "ticker": "SEEK",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "AvatarCoin",
         "ticker": "AV",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "RugSeekers",
-        "ticker": "SEEK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Dank Doge",
-        "ticker": "DANKDOGE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-04"
     }
 ]
