@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Tewkenaire Stable",
+        "ticker": "STABLE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "AvatarCoin",
         "ticker": "AV",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
