@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "DO YouR meme",
+        "ticker": "DOYR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-10"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Night.Finance",
         "ticker": "NIGHT",
