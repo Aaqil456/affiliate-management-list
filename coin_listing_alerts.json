@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "DIPNET",
+        "ticker": "DPN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "The Game",
         "ticker": "US",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -89,33 +96,5 @@
         "ticker": "CLONE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-10"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Night.Finance",
-        "ticker": "NIGHT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-12-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "WeShow Token",
-        "ticker": "WET",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-09"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "WeShow Token",
-        "ticker": "WET",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-12-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "WeShow Token",
-        "ticker": "WET",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-09"
     }
 ]
