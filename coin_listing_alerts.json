@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Ravelous",
+        "ticker": "RAVE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-14"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "aifarm.finance",
         "ticker": "AIF",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -19,75 +26,5 @@
         "ticker": "RAVE",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-12-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "The Game",
-        "ticker": "US",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Bitcore",
-        "ticker": "BTX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "The Game",
-        "ticker": "US",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Donut",
-        "ticker": "DONUT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Yee",
-        "ticker": "YEE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Reppo",
-        "ticker": "REPPO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Kyouneko",
-        "ticker": "KYO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bigcoin",
-        "ticker": "BIG",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CryptoMiner",
-        "ticker": "MINER",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Bitcore",
-        "ticker": "BTX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-11"
     }
 ]
