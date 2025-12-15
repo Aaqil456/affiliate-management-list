@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Ravelous",
+        "ticker": "RAVE",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-12-15"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Ravelous",
         "ticker": "RAVE",
@@ -12,19 +19,5 @@
         "ticker": "AIF",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "DIPNET",
-        "ticker": "DPN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-12"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Ravelous",
-        "ticker": "RAVE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-12"
     }
 ]
