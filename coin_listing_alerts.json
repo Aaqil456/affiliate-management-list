@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Cream",
+        "ticker": "CRM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-16"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Ravelous",
         "ticker": "RAVE",
@@ -12,12 +19,5 @@
         "ticker": "RAVE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "aifarm.finance",
-        "ticker": "AIF",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-13"
     }
 ]
