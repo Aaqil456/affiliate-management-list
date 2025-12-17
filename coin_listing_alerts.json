@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Infrared",
+        "ticker": "IR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-17"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Cream",
         "ticker": "CRM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
