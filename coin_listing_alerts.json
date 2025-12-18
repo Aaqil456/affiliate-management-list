@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "VOOI",
+        "ticker": "VOOI",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-18"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "GoldZip",
         "ticker": "XGZ",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -54,12 +61,5 @@
         "ticker": "THQ",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-12-16"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Ravelous",
-        "ticker": "RAVE",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-15"
     }
 ]
