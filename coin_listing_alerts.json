@@ -7,6 +7,20 @@
         "date_added": "2025-12-18"
     },
     {
+        "exchange": "Bybit",
+        "coin": "VOOI",
+        "ticker": "VOOI",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-12-18"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "VOOI",
+        "ticker": "VOOI",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-12-18"
+    },
+    {
         "exchange": "MEXC",
         "coin": "GoldZip",
         "ticker": "XGZ",
