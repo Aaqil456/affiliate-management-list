@@ -7,6 +7,13 @@
         "date_added": "2025-12-19"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Panther Protocol",
+        "ticker": "ZKP",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2025-12-19"
+    },
+    {
         "exchange": "MEXC",
         "coin": "VOOI",
         "ticker": "VOOI",
