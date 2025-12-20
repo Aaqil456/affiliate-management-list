@@ -1,6 +1,27 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "United Doge Finance",
+        "ticker": "UDOG",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "JeffToken",
+        "ticker": "JEFF",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-20"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Coin Edelweis",
+        "ticker": "EDEL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Rotex",
         "ticker": "RTX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,40 +61,5 @@
         "ticker": "VOOI",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2025-12-18"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GoldZip",
-        "ticker": "XGZ",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-17"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Scorpion",
-        "ticker": "SCOR",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-12-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Scorpion",
-        "ticker": "SCOR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-17"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Infrared",
-        "ticker": "IR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-17"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Infrared",
-        "ticker": "IR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-17"
     }
 ]
