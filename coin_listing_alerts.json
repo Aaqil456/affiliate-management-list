@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Simpson Cat",
+        "ticker": "SNOWBALL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2025-12-22"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "United Doge Finance",
         "ticker": "UDOG",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,47 +40,5 @@
         "ticker": "TTD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Rotex",
-        "ticker": "RTX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-19"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Panther Protocol",
-        "ticker": "ZKP",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-12-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Helios Token",
-        "ticker": "HLS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-19"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "VOOI",
-        "ticker": "VOOI",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-18"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "VOOI",
-        "ticker": "VOOI",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2025-12-18"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "VOOI",
-        "ticker": "VOOI",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-18"
     }
 ]
