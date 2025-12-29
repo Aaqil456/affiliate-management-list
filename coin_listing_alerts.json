@@ -1,6 +1,13 @@
 [
     {
         "exchange": "Gate.io",
+        "coin": "Panther Protocol",
+        "ticker": "ZKP",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2025-12-29"
+    },
+    {
+        "exchange": "Gate.io",
         "coin": "GaiAI",
         "ticker": "GAIX",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
@@ -12,19 +19,5 @@
         "ticker": "COLLECT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2025-12-27"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Panther Protocol",
-        "ticker": "ZKP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-26"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Nockchain",
-        "ticker": "NOCK",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-25"
     }
 ]
