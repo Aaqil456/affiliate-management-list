@@ -1,30 +1,9 @@
 [
     {
         "exchange": "MEXC",
-        "coin": "CoinCollect",
-        "ticker": "COLLECT",
+        "coin": "CodexToken",
+        "ticker": "CODEX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "GaiAI",
-        "ticker": "GAIX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "OPS",
-        "ticker": "OPS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2025-12-30"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Panther Protocol",
-        "ticker": "ZKP",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2025-12-29"
+        "date_added": "2026-01-02"
     }
 ]
