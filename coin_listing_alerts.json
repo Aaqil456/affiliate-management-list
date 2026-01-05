@@ -1,16 +1,16 @@
 [
     {
-        "exchange": "MEXC",
-        "coin": "CodexToken",
-        "ticker": "CODEX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-02"
-    },
-    {
         "exchange": "Gate.io",
         "coin": "CodexToken",
         "ticker": "CODEX",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-02"
+        "date_added": "2026-01-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "CodexToken",
+        "ticker": "CODEX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-05"
     }
 ]
