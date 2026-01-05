@@ -12,5 +12,12 @@
         "ticker": "CODEX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "EvoSimGame",
+        "ticker": "ESIM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-05"
     }
 ]
