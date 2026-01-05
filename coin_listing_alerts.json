@@ -19,5 +19,26 @@
         "ticker": "ESIM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Flying Ketamine Horse",
+        "ticker": "FKH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "MemeMarket",
+        "ticker": "MFUN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-05"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "AI Avatar",
+        "ticker": "AIAV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-05"
     }
 ]
