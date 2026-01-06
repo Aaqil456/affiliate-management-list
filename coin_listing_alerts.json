@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "QI Blockchain",
+        "ticker": "QIE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-06"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "CodexToken",
         "ticker": "CODEX",
