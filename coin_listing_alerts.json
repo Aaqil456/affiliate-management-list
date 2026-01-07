@@ -21,6 +21,20 @@
         "date_added": "2026-01-07"
     },
     {
+        "exchange": "Binance",
+        "coin": "Panther Protocol",
+        "ticker": "ZKP",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2026-01-07"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "\u5e01\u5b89\u4eba\u751f",
+        "ticker": "\u5e01\u5b89\u4eba\u751f",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2026-01-07"
+    },
+    {
         "exchange": "MEXC",
         "coin": "QI Blockchain",
         "ticker": "QIE",
