@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "The White Whale",
+        "ticker": "WHITEWHALE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-07"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "QI Blockchain",
         "ticker": "QIE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
