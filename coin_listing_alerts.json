@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Orta Chain",
+        "ticker": "ORTA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-08"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "The White Whale",
         "ticker": "WHITEWHALE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
