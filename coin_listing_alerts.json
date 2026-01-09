@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "plus token",
+        "ticker": "PLUS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BTC Network Demand Set II",
         "ticker": "BYTE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
