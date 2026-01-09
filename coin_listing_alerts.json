@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "\u6211\u8e0f\u9a6c\u6765\u4e86",
+        "ticker": "\u6211\u8e0f\u9a6c\u6765\u4e86",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-09"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BTC Network Demand Set II",
         "ticker": "BYTE",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -47,47 +54,5 @@
         "ticker": "\u5e01\u5b89\u4eba\u751f",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2026-01-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "QI Blockchain",
-        "ticker": "QIE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-06"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "The White Whale",
-        "ticker": "WHITEWHALE",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Brevis",
-        "ticker": "BREV",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-06"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Brevis",
-        "ticker": "BREV",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-06"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Brevis",
-        "ticker": "BREV",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-06"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Brevis",
-        "ticker": "BREV",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-06"
     }
 ]
