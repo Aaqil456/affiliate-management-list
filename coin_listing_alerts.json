@@ -1,6 +1,34 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Mushie.Finance",
+        "ticker": "MUSH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Save Ralph",
+        "ticker": "RALPH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Polycat Finance",
+        "ticker": "FISH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-11"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Euphoria",
+        "ticker": "EPH",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-11"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "\u6211\u8e0f\u9a6c\u6765\u4e86",
         "ticker": "\u6211\u8e0f\u9a6c\u6765\u4e86",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,54 +61,5 @@
         "ticker": "PLUS",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BTC Network Demand Set II",
-        "ticker": "BYTE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Orta Chain",
-        "ticker": "ORTA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-08"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "The White Whale",
-        "ticker": "WHITEWHALE",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-07"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ZeTo",
-        "ticker": "ZTC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-07"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "ZeTo",
-        "ticker": "ZTC",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-07"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Panther Protocol",
-        "ticker": "ZKP",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-07"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "\u5e01\u5b89\u4eba\u751f",
-        "ticker": "\u5e01\u5b89\u4eba\u751f",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-07"
     }
 ]
