@@ -21,6 +21,13 @@
         "date_added": "2026-01-12"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Frax",
+        "ticker": "FRAX",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-01-12"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Mushie.Finance",
         "ticker": "MUSH",
