@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Frax",
+        "ticker": "FRAX",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-12"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Angry Token",
+        "ticker": "ANB",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Mushie.Finance",
         "ticker": "MUSH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -26,40 +40,5 @@
         "ticker": "EPH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u6211\u8e0f\u9a6c\u6765\u4e86",
-        "ticker": "\u6211\u8e0f\u9a6c\u6765\u4e86",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u706b\u72d0",
-        "ticker": "DN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-09"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "\u706b\u72d0",
-        "ticker": "DN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BaconSwap",
-        "ticker": "BACON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "plus token",
-        "ticker": "PLUS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-09"
     }
 ]
