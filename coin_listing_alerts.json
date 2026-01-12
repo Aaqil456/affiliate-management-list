@@ -15,6 +15,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Chain-key Bitcoin",
+        "ticker": "CKBTC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Mushie.Finance",
         "ticker": "MUSH",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
