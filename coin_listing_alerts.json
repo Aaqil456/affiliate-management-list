@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "UnionTokens",
+        "ticker": "UNION",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-01-13"
+    },
+    {
         "exchange": "MEXC",
         "coin": "Frax",
         "ticker": "FRAX",
