@@ -21,6 +21,13 @@
         "date_added": "2026-01-14"
     },
     {
+        "exchange": "MEXC",
+        "coin": "AIXTerminal",
+        "ticker": "AIXT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-14"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "UnionTokens",
         "ticker": "UNION",
