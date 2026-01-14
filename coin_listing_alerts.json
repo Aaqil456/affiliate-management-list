@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Copiosa",
+        "ticker": "COP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-14"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Mexican Peso",
+        "ticker": "MXN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-14"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "UnionTokens",
         "ticker": "UNION",
@@ -40,33 +54,5 @@
         "ticker": "FRAX",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2026-01-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mushie.Finance",
-        "ticker": "MUSH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Save Ralph",
-        "ticker": "RALPH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Polycat Finance",
-        "ticker": "FISH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Euphoria",
-        "ticker": "EPH",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-11"
     }
 ]
