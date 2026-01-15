@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "\u6b7b\u4e86\u4e48",
+        "ticker": "\u6b7b\u4e86\u4e48",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Copiosa",
         "ticker": "COP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
