@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "BlazeStake Staked SOL",
+        "ticker": "BSOL",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-15"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "\u96ea\u7403",
+        "ticker": "\u96ea\u7403",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-15"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Copiosa",
         "ticker": "COP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,33 +54,5 @@
         "ticker": "U",
         "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
         "date_added": "2026-01-13"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Frax",
-        "ticker": "FRAX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Angry Token",
-        "ticker": "ANB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-12"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Chain-key Bitcoin",
-        "ticker": "CKBTC",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-12"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Frax",
-        "ticker": "FRAX",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-12"
     }
 ]
