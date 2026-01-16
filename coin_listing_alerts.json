@@ -22,6 +22,20 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "2131KOBUSHIDE",
+        "ticker": "21",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "The Next Bitcoin",
+        "ticker": "BUTTCOIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BlazeStake Staked SOL",
         "ticker": "BSOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
