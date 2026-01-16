@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Step Sister Doge",
+        "ticker": "SIS",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "BlazeStake Staked SOL",
         "ticker": "BSOL",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -110,19 +117,5 @@
         "ticker": "AIXT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-14"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "UnionTokens",
-        "ticker": "UNION",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-13"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Union",
-        "ticker": "U",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-13"
     }
 ]
