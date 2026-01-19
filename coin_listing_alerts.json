@@ -1,149 +1,23 @@
 [
     {
         "exchange": "MEXC",
-        "coin": "Step Sister Doge",
-        "ticker": "SIS",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Roller Staker",
-        "ticker": "ROLL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-16"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Roller Staker",
-        "ticker": "ROLL",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-16"
-    },
-    {
-        "exchange": "MEXC",
         "coin": "2131KOBUSHIDE",
         "ticker": "21",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-16"
+        "date_added": "2026-01-19"
     },
     {
         "exchange": "MEXC",
         "coin": "The Next Bitcoin",
         "ticker": "BUTTCOIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-16"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "BlazeStake Staked SOL",
-        "ticker": "BSOL",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u96ea\u7403",
-        "ticker": "\u96ea\u7403",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Frax",
-        "ticker": "FRAX",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u6b7b\u4e86\u4e48",
-        "ticker": "\u6b7b\u4e86\u4e48",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "OWL Token",
-        "ticker": "OWL",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Fogo",
-        "ticker": "FOGO",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "PayCon",
-        "ticker": "CON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Fogo",
-        "ticker": "FOGO",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Fogo",
-        "ticker": "FOGO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-15"
+        "date_added": "2026-01-19"
     },
     {
         "exchange": "Bitget",
-        "coin": "FunFair",
-        "ticker": "FUN",
+        "coin": "Roller Staker",
+        "ticker": "ROLL",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Fogo",
-        "ticker": "FOGO",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Fogo",
-        "ticker": "FOGO",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-15"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Copiosa",
-        "ticker": "COP",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Mexican Peso",
-        "ticker": "MXN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Empire of Sight",
-        "ticker": "SIGHT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-14"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "AIXTerminal",
-        "ticker": "AIXT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-14"
+        "date_added": "2026-01-19"
     }
 ]
