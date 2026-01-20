@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Elsa",
+        "ticker": "ELSA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-20"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "2131KOBUSHIDE",
         "ticker": "21",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
