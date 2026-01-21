@@ -1,5 +1,26 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "1",
+        "ticker": "1",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-01-21"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Sakuracoin",
+        "ticker": "SKR",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-01-21"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Sakuracoin",
+        "ticker": "SKR",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-01-21"
+    },
+    {
         "exchange": "MEXC",
         "coin": "GSDToken",
         "ticker": "GSD",
