@@ -29,6 +29,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Gwei Token",
+        "ticker": "Forked from WETH10",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-21"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "GSDToken",
         "ticker": "GSD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
