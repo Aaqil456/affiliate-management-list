@@ -28,6 +28,27 @@
         "date_added": "2026-01-22"
     },
     {
+        "exchange": "MEXC",
+        "coin": "Imusify",
+        "ticker": "IMU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-22"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "FIGHT.Finance",
+        "ticker": "FIGHT",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-01-22"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Sentinel",
+        "ticker": "SENT",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2026-01-22"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "1",
         "ticker": "1",
