@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "DONT BUY",
+        "ticker": "DONT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-23"
+    },
+    {
         "exchange": "Binance",
         "coin": "Ripple USD",
         "ticker": "RLUSD",
@@ -117,33 +124,5 @@
         "ticker": "Forked from WETH10",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "GSDToken",
-        "ticker": "GSD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-20"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Elsa",
-        "ticker": "ELSA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-20"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Elsa",
-        "ticker": "ELSA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-20"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Aitheon",
-        "ticker": "ACU",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-20"
     }
 ]
