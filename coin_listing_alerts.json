@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "$PEN",
+        "ticker": "PENGUIN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-24"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "DONT BUY",
         "ticker": "DONT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -82,54 +89,5 @@
         "ticker": "IMU",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "1",
-        "ticker": "1",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Sakuracoin",
-        "ticker": "SKR",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Sakuracoin",
-        "ticker": "SKR",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Edom",
-        "ticker": "EDOM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Gwei Token",
-        "ticker": "Forked from WETH10",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Gwei Token",
-        "ticker": "Forked from WETH10",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-21"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Gwei Token",
-        "ticker": "Forked from WETH10",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-21"
     }
 ]
