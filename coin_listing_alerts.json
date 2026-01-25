@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "SGPay",
+        "ticker": "SGP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-25"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "$PEN",
         "ticker": "PENGUIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -26,75 +33,5 @@
         "ticker": "ELSA",
         "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
         "date_added": "2026-01-23"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Ripple USD",
-        "ticker": "RLUSD",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Sentinel",
-        "ticker": "SENT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Sentinel",
-        "ticker": "SENT",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Sentinel",
-        "ticker": "SENT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Imusify",
-        "ticker": "IMU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "FIGHT.Finance",
-        "ticker": "FIGHT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Sentinel",
-        "ticker": "SENT",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Imusify",
-        "ticker": "IMU",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Imusify",
-        "ticker": "IMU",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-22"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Imusify",
-        "ticker": "IMU",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-22"
     }
 ]
