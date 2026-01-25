@@ -8,6 +8,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Merculet",
+        "ticker": "MVP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-25"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "$PEN",
         "ticker": "PENGUIN",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
