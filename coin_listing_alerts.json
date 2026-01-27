@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "MWX Token",
+        "ticker": "MWXT",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-27"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Capybobo",
         "ticker": "PYBOBO",
@@ -19,19 +26,5 @@
         "ticker": "MVP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-25"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "$PEN",
-        "ticker": "PENGUIN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-24"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "$PEN",
-        "ticker": "PENGUIN",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-24"
     }
 ]
