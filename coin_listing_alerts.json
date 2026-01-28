@@ -7,6 +7,20 @@
         "date_added": "2026-01-28"
     },
     {
+        "exchange": "Bitget",
+        "coin": "Birb",
+        "ticker": "BIRB",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2026-01-28"
+    },
+    {
+        "exchange": "Bybit",
+        "coin": "Birb",
+        "ticker": "BIRB",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-01-28"
+    },
+    {
         "exchange": "MEXC",
         "coin": "MWX Token",
         "ticker": "MWXT",
