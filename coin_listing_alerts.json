@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "ACU",
+        "ticker": "ACU",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-01-30"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Birb",
         "ticker": "BIRB",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -19,40 +26,5 @@
         "ticker": "BIRB",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2026-01-28"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "MWX Token",
-        "ticker": "MWXT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-27"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "USAT.IO IP Platform",
-        "ticker": "USAT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-27"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "USAT.IO IP Platform",
-        "ticker": "USAT",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "USAT.IO IP Platform",
-        "ticker": "USAT",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-27"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Capybobo",
-        "ticker": "PYBOBO",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-26"
     }
 ]
