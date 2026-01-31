@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "Bitget",
+        "coin": "$PEN",
+        "ticker": "PENGUIN",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2026-01-31"
+    },
+    {
         "exchange": "MEXC",
         "coin": "ACU",
         "ticker": "ACU",
@@ -47,26 +54,5 @@
         "ticker": "INX",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Birb",
-        "ticker": "BIRB",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-28"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Birb",
-        "ticker": "BIRB",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-28"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Birb",
-        "ticker": "BIRB",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-28"
     }
 ]
