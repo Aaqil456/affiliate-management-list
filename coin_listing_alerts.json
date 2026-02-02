@@ -1,5 +1,40 @@
 [
     {
+        "exchange": "Bybit",
+        "coin": "Zama",
+        "ticker": "ZAMA",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-02-02"
+    },
+    {
+        "exchange": "Bitget",
+        "coin": "Zama",
+        "ticker": "ZAMA",
+        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
+        "date_added": "2026-02-02"
+    },
+    {
+        "exchange": "Gate.io",
+        "coin": "Zama",
+        "ticker": "ZAMA",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-02-02"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Zama",
+        "ticker": "ZAMA",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2026-02-02"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Zama",
+        "ticker": "ZAMA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-02"
+    },
+    {
         "exchange": "MEXC",
         "coin": "CRYPGPT",
         "ticker": "CRYPGPT",
@@ -33,54 +68,5 @@
         "ticker": "PENGUIN",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2026-01-31"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "ACU",
-        "ticker": "ACU",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Neptune Mutual",
-        "ticker": "NPM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "2016 coin",
-        "ticker": "2016",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Cryptographic Ultra Money",
-        "ticker": "CUM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "\u5b89",
-        "ticker": "\u5b89",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Pigeon",
-        "ticker": "PIGEON",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "InfinitX",
-        "ticker": "INX",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-01-30"
     }
 ]
