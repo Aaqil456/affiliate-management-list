@@ -35,6 +35,13 @@
         "date_added": "2026-02-02"
     },
     {
+        "exchange": "Bybit",
+        "coin": "Dogelon Mars",
+        "ticker": "ELON",
+        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
+        "date_added": "2026-02-02"
+    },
+    {
         "exchange": "MEXC",
         "coin": "CRYPGPT",
         "ticker": "CRYPGPT",
