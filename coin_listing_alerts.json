@@ -1,5 +1,19 @@
 [
     {
+        "exchange": "Gate.io",
+        "coin": "Birb",
+        "ticker": "BIRB",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-02-03"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Triaconta",
+        "ticker": "TRIA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-03"
+    },
+    {
         "exchange": "Bybit",
         "coin": "Zama",
         "ticker": "ZAMA",
@@ -47,33 +61,5 @@
         "ticker": "CRYPGPT",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-02-01"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "$PEN",
-        "ticker": "PENGUIN",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-31"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "ARTX Trading",
-        "ticker": "ARTX",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-01-31"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "InfinitX",
-        "ticker": "INX",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-01-31"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "$PEN",
-        "ticker": "PENGUIN",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-01-31"
     }
 ]
