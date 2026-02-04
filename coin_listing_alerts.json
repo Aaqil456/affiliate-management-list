@@ -1,5 +1,12 @@
 [
     {
+        "exchange": "MEXC",
+        "coin": "Warden Protocol",
+        "ticker": "WARD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-04"
+    },
+    {
         "exchange": "Gate.io",
         "coin": "Birb",
         "ticker": "BIRB",
@@ -68,12 +75,5 @@
         "ticker": "ELON",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "CRYPGPT",
-        "ticker": "CRYPGPT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-01"
     }
 ]
