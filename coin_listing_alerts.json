@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Goldfish Gold",
+        "ticker": "GGBR",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-05"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Warden Protocol",
         "ticker": "WARD",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -40,47 +47,5 @@
         "ticker": "TRIA",
         "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
         "date_added": "2026-02-03"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Zama",
-        "ticker": "ZAMA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Zama",
-        "ticker": "ZAMA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Zama",
-        "ticker": "ZAMA",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "Binance",
-        "coin": "Zama",
-        "ticker": "ZAMA",
-        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
-        "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Zama",
-        "ticker": "ZAMA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-02"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Dogelon Mars",
-        "ticker": "ELON",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-02-02"
     }
 ]
