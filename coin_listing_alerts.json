@@ -1,6 +1,20 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Movachain",
+        "ticker": "MOVA",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-06"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Temtum",
+        "ticker": "TEM",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-06"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Goldfish Gold",
         "ticker": "GGBR",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
@@ -33,33 +47,5 @@
         "ticker": "WARD",
         "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
         "date_added": "2026-02-04"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "Birb",
-        "ticker": "BIRB",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-02-03"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Triaconta",
-        "ticker": "TRIA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-03"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Triaconta",
-        "ticker": "TRIA",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-02-03"
-    },
-    {
-        "exchange": "Bybit",
-        "coin": "Triaconta",
-        "ticker": "TRIA",
-        "affiliate_url": "https://partner.bybitglobal.com/b/bicarakrypto",
-        "date_added": "2026-02-03"
     }
 ]
