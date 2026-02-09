@@ -4,48 +4,13 @@
         "coin": "Movachain",
         "ticker": "MOVA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-06"
+        "date_added": "2026-02-09"
     },
     {
         "exchange": "MEXC",
         "coin": "Temtum",
         "ticker": "TEM",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-06"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Goldfish Gold",
-        "ticker": "GGBR",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-05"
-    },
-    {
-        "exchange": "Gate.io",
-        "coin": "HaloDAO",
-        "ticker": "RNBW",
-        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
-        "date_added": "2026-02-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "HaloDAO",
-        "ticker": "RNBW",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-05"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Warden Protocol",
-        "ticker": "WARD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-04"
-    },
-    {
-        "exchange": "Bitget",
-        "coin": "Warden Protocol",
-        "ticker": "WARD",
-        "affiliate_url": "https://partner.bitgetapp.com/bg/F7WAGD",
-        "date_added": "2026-02-04"
+        "date_added": "2026-02-09"
     }
 ]
