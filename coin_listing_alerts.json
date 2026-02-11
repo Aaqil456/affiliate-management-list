@@ -1,6 +1,13 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "AIVeronica",
+        "ticker": "AIV",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-11"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "Movachain",
         "ticker": "MOVA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
