@@ -22,6 +22,13 @@
     },
     {
         "exchange": "MEXC",
+        "coin": "Espers",
+        "ticker": "ESP",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "AIVeronica",
         "ticker": "AIV",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
