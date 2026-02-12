@@ -1,51 +1,16 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "Aztec",
+        "ticker": "AZTEC",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-12"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "AIVeronica",
         "ticker": "AIV",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
         "date_added": "2026-02-11"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Movachain",
-        "ticker": "MOVA",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Temtum",
-        "ticker": "TEM",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Tranquility City",
-        "ticker": "LUMEN",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "Toilet Paper",
-        "ticker": "TOILET",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "clawd.atg.eth",
-        "ticker": "CLAWD",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
-    },
-    {
-        "exchange": "MEXC",
-        "coin": "The Big Trout",
-        "ticker": "BIGTROUT",
-        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-09"
     }
 ]
