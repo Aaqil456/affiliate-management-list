@@ -28,6 +28,27 @@
         "date_added": "2026-02-12"
     },
     {
+        "exchange": "Gate.io",
+        "coin": "Espers",
+        "ticker": "ESP",
+        "affiliate_url": "https://www.gate.io/signup/BgASAV5W?ref_type=103",
+        "date_added": "2026-02-12"
+    },
+    {
+        "exchange": "Binance",
+        "coin": "Espers",
+        "ticker": "ESP",
+        "affiliate_url": "https://www.binance.info/activity/referral-entry/CPA/together-v4?hl=en&ref=CPA_00J27B927R",
+        "date_added": "2026-02-12"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "GimbutisCoin",
+        "ticker": "USAD",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-12"
+    },
+    {
         "exchange": "MEXC",
         "coin": "AIVeronica",
         "ticker": "AIV",
