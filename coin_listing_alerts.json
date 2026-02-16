@@ -1,6 +1,34 @@
 [
     {
         "exchange": "MEXC",
+        "coin": "KellyClaude",
+        "ticker": "KELLYCLAUDE",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "AntiHunter",
+        "ticker": "ANTIHUNTER",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Crust Exchange",
+        "ticker": "CRUST",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-16"
+    },
+    {
+        "exchange": "MEXC",
+        "coin": "Molten",
+        "ticker": "MOLTEN",
+        "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
+        "date_added": "2026-02-16"
+    },
+    {
+        "exchange": "MEXC",
         "coin": "KLIPAI",
         "ticker": "KLIP",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
