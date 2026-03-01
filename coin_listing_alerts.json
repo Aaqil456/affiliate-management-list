@@ -4,20 +4,20 @@
         "coin": "KIMCHI.finance",
         "ticker": "KIMCHI",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-26"
+        "date_added": "2026-03-01"
     },
     {
         "exchange": "MEXC",
         "coin": "Mushu Finance",
         "ticker": "MUSHU",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-26"
+        "date_added": "2026-03-01"
     },
     {
         "exchange": "MEXC",
         "coin": "Maya Coin",
         "ticker": "MAYA",
         "affiliate_url": "https://www.mexc.co/register?inviteCode=mexc-bicarak",
-        "date_added": "2026-02-26"
+        "date_added": "2026-03-01"
     }
 ]
